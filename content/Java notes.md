@@ -3,7 +3,7 @@ aliases:
   - "202310091117"
 language: java
 created: 2023-10-09T11:17
-updated: 2024-02-17T05:47
+updated: 2024-02-17T06:16
 title: Java notes
 ---
 # Java
