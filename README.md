@@ -1,3 +1,7 @@
+# Visit my website [here]()
+Please see my notes [here](content/).
+
+This is a repository made using a tool called Quartz (read below for more info).
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
