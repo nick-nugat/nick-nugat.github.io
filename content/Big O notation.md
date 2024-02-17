@@ -6,7 +6,7 @@ language:
   - java
   - cpp
 title: Big O notation
-updated: 2024-02-17T06:16
+updated: 2024-02-17T06:22
 ---
 # [[Big O notation]]
 ## Notes
