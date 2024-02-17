@@ -1,7 +1,6 @@
-# Visit my website [here]()
-Please see my notes [here](content/).
-
+# Visit my website [here](https://nick-nugat.github.io/coding-notes-hosted/)!
 This is a repository made using a tool called Quartz (read below for more info).
+___
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
