@@ -1,0 +1,18 @@
+[submodule "courses/CMSC204"]
+	path = courses/CMSC204
+	url = https://github.com/nick-nugat/CMSC204.git
+[submodule "courses/CMSC140"]
+	path = courses/CMSC140
+	url = https://github.com/nick-nugat/CMSC140.git
+[submodule "courses/CMSC203"]
+	path = courses/CMSC203
+	url = https://github.com/nick-nugat/CMSC203.git
+[submodule "languages/learning-java"]
+	path = languages/learning-java
+	url = https://github.com/nick-nugat/learning-java
+[submodule "languages/learning-python"]
+	path = languages/learning-python
+	url = https://github.com/nick-nugat/learning-cpp.git
+[submodule "languages/learning-cpp"]
+	path = languages/learning-cpp
+	url = https://github.com/nick-nugat/learning-cpp.git
