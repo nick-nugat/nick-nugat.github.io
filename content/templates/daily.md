@@ -6,10 +6,3 @@ tags:
 ___
 <%tp.file.cursor()%>
 
-
-
-
-## Today's notes
-```query
-[date: <%tp.file.title%>]
-```
