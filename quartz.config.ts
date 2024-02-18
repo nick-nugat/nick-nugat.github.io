@@ -17,9 +17,21 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Karla",
+        code: "JetBrains Mono",
       },
+      
+      /*
+      FROM OFFICIAL DOCUMENTATION:
+        light: page background
+        lightgray: borders
+        gray: graph links, heavier borders
+        darkgray: body text
+        dark: header text and icons
+        secondary: link colour, current graph node
+        tertiary: hover states and visited graph nodes
+        highlight: internal link background, highlighted text, highlighted lines of code
+      */
       colors: {
         lightMode: {
           light: "#faf8f8",
@@ -32,7 +44,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#313445",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
