@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Karla",
+        body: "Source Sans Pro",
         code: "JetBrains Mono",
       },
       
