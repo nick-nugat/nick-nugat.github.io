@@ -1,6 +1,3 @@
----
-updated: 2024-02-19T02:08
----
 # assignment1-design-final <% tp.file.cursor() %>
 > Nicholas Nguyen
 ___
