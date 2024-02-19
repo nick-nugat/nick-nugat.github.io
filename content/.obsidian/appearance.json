@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Dracula Official",
-  "textFontFamily": "Source Sans 3"
+  "textFontFamily": "Source Sans 3",
+  "baseFontSize": 18
 }
