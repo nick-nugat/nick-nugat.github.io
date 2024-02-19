@@ -3,6 +3,7 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+.obsidian/workspace.json
 .trash/
 .quartz-cache
 private/
