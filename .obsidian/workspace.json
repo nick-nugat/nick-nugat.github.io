@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e42bf7d704873642",
+    "type": "split",
+    "children": [
+      {
+        "id": "93309eaf8d4be89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abd7600054d71dfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d33d72a038da6a53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e889cbb397ca8af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17c5ea4918305ddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "921da2cad27eb49d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eba96a5cdf6def06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db7dde59c5f1f1ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "23bb120dae956efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "357f13ee3ee7bfe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edf04300c3f3ee97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f21d1eea5346daa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "620849b1d9657d72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "abd7600054d71dfd",
+  "lastOpenFiles": [
+    "README.md",
+    "content/templates/daily.md",
+    "content/templates/design-document.md",
+    "content/templates/coding-note.md",
+    "content/daily/2024-02-12.md",
+    "content/assets/Appendix D - Creating Classes From Other Classes.ppt",
+    "content/assets/Module 04 - Array Based ADT.pptx",
+    "content/assets/Module 05 - Linked ADT.pptx",
+    "content/assets/big-o-complexity-chart.png",
+    "content/assets/scratchpad.md",
+    "content/assets/big-o-notation-graph-examples.png",
+    "content/assets/Module 01 - Data Structure ADT(1).pptx",
+    "content/assets/Appendix C - Java Classes.ppt",
+    "content/assets/Appendix B - Java Basics.ppt",
+    "content/assets/Appendix E - File Input and Output.ppt",
+    "content/assets/Module 03 - Generics.pptx",
+    "content/assets/Pasted image 20240131144002.png",
+    "content/assets/Pasted image 20240131143949.png",
+    "content/assets/Appendix A - Documentation and Programming Style.ppt",
+    "content/assets/Module 06 - Efficiency of Algorithms.pptx",
+    "content/assets/typical-big-o-notation-speeds-for-diff-n-values.png",
+    "content/What do put at the top of your files in CPP.md",
+    "content/Using LinkedList or ArrayList.md",
+    "content/Tokenizing Strings in Java.md",
+    "content/StringBuilder class in Java.md",
+    "content/README.md",
+    "content/Programming.md",
+    "content/Java notes.md",
+    "content/Generics in Java.md",
+    "content/Data types in CPP.md",
+    "content/Data structures.md",
+    "content/CPP notes.md",
+    "content/Big O notation.md",
+    "content/Basic operations and functions in CPP.md",
+    "content/this is a test note.md"
+  ]
+}
