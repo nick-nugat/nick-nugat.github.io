@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-19T02:08
+updated: 2024-02-19T04:28
 title: 🤔 How did you end up here?
 ---
 # Welcome! 👋
@@ -15,7 +15,7 @@ title: 🤔 How did you end up here?
 
 > [!question]+ What should I do from here?
 > You can browse my notes through the sidebar, but I also like to use [[Internal links|internal links]] for navigation between my notes.
-> - If you want to see the progress of my notes as I work on them, see the changelog/history of my notes [[changelog|here]].
+> - If you want to see the progress of my notes as I work on them, see the changelog/history of my notes [[_symlinks/coding-vault/plugins/changelog|here]].
 > - Since I'm still a beginner, so any feedback is welcome through a [pull request on GitHub](https://github.com/nick-nugat/coding-notes-hosted/issues/new).
 
 ___
