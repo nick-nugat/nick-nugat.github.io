@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-19T14:14
+updated: 2024-02-19T14:24
 ---
 - 2024-02-19 at 04h28 · [[index]]
 - 2024-02-19 at 02h36 · [[Debugging in intellij]]
