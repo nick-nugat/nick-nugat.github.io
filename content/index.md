@@ -1,21 +1,22 @@
 ---
-updated: 2024-02-18T22:04
+updated: 2024-02-18T22:10
 title: 🤔 How did you end up here?
 ---
-### Welcome! 👋
+# Welcome! 👋
 > [!question]- Who are you?
-> My name is Nick, and I'm an aspiring programmer. Since I'm still a beginner, so any feedback is welcome either through a pull request on GitHub or message me on Discord at nick.nugat.
+> My name is Nick, and I'm an aspiring programmer.
 > 
 > To learn more about who I am, check out my [GitHub profile](https://github.com/nick-nugat).
 
 > [!question]- Where am I? 😵‍💫
 > These are my coding notes!
 > 
-> You can browse my notes through the sidebar, but I also like to use [[Internal links|internal links]] for navigation between my notes.
-> 
 > To see the source code for my notes, [click here](https://github.com/nick-nugat/coding-notes-hosted/tree/v4/content).
 
-
+> [!question] How do I navigate your notes?
+> You can browse my notes through the sidebar, but I also like to use [[Internal links|internal links]] for navigation between my notes.
+> 
+> If you want to see the progress of my notes as I work on them, see the changelog/history of my notes [[changelog|here]].
 
 ___
 > [!important]+ Here are some of my other projects 👀
@@ -26,4 +27,4 @@ ___
 > - [`languages/learning-java`](https://github.com/nick-nugat/learning-java)
 > - [`languages/learning-python`](https://github.com/nick-nugat/learning-python)
 
-If you want to see the progress of my notes as I work on them, see the changelog/history of my notes [[changelog|here]].
+- Since I'm still a beginner, so any feedback is welcome through a [pull request on GitHub](https://github.com/nick-nugat/coding-notes-hosted/issues/new).
