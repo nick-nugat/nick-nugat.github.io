@@ -3,7 +3,7 @@ aliases: "202402182145"
 tags: 
 date: 2024-02-18
 created: 2024-02-18T21:45
-updated: 2024-02-18T22:15
+updated: 2024-02-19T02:08
 ---
 > source: https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html#stopping-debugger
 # [[debugging in intellij]]

@@ -1,3 +1,6 @@
+---
+updated: 2024-02-19T02:08
+---
 - 2024-02-19 at 01h20 · [[scratchpad]]
 - 2024-02-18 at 22h15 · [[debugging in intellij]]
 - 2024-02-18 at 22h13 · [[index]]
