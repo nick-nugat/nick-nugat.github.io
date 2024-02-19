@@ -13,6 +13,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4"
+    "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
+    "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610"
   }
 }
