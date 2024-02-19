@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "ddaf738cc20c2fd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0b062b0192cae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587fa29dd83d64d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ba871338bdcf646",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cf1e7a789c3389f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b853e629335496e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "cd5ae822e7ef1be0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "80fa5686a1fa8fcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "474631258cee2cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "285bcdf08d88fb6d",
+        "type": "tabs",
+        "dimension": 32.132701421800945,
+        "children": [
+          {
+            "id": "3f795b86ab284a34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d15aedc14af4fbf5",
+        "type": "tabs",
+        "dimension": 31.090047393364927,
+        "children": [
+          {
+            "id": "fbef297f1b83573d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdd5527fa03d2117",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e451687a7902d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "101946de4007d287",
+        "type": "tabs",
+        "dimension": 36.77725118483413,
+        "children": [
+          {
+            "id": "9ab725668c42b89f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "587fa29dd83d64d4",
+  "lastOpenFiles": [
+    "plugins/changelog.md",
+    "What do put at the top of your files in CPP.md",
+    "Big O notation.md"
+  ]
+}

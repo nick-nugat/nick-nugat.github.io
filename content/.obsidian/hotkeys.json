@@ -1,0 +1,214 @@
+{
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "8"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open": [],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "periodic-notes:next-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "periodic-notes:prev-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "smart-random-note:open-random-note-from-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "auto-note-mover:Move-the-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

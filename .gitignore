@@ -3,8 +3,6 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-content/.obsidian/
-!content/.obsidian/plugins/
 .trash/
 .quartz-cache
 private/

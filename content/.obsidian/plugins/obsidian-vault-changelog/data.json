@@ -1,0 +1,6 @@
+{
+  "numberOfFilesToShow": 500,
+  "changelogFilePath": "plugins/changelog.md",
+  "watchVaultChange": true,
+  "excludePaths": "daily,templates,cmsc204"
+}
