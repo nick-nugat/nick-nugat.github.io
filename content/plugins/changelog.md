@@ -1,3 +1,4 @@
+- 2024-02-19 at 01h20 · [[scratchpad]]
 - 2024-02-18 at 22h15 · [[debugging in intellij]]
 - 2024-02-18 at 22h13 · [[index]]
 - 2024-02-17 at 19h30 · [[Internal links]]
@@ -13,4 +14,3 @@
 - 2024-02-17 at 06h22 · [[Data types in CPP]]
 - 2024-02-17 at 06h22 · [[Basic operations and functions in CPP]]
 - 2024-02-17 at 06h22 · [[Using LinkedList or ArrayList]]
-- 2024-02-17 at 00h34 · [[scratchpad]]
