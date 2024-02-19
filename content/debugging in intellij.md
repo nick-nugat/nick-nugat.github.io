@@ -3,7 +3,7 @@ aliases: "202402182145"
 tags: 
 date: 2024-02-18
 created: 2024-02-18T21:45
-updated: 2024-02-18T21:52
+updated: 2024-02-18T22:15
 ---
 > source: https://www.jetbrains.com/help/idea/debugging-your-first-java-application.html#stopping-debugger
 # [[debugging in intellij]]
@@ -16,4 +16,3 @@ updated: 2024-02-18T21:52
 ## continuing on with program
 - **step into** to find out more abt what's happening in a method
 - **step over** continues but doesnt visit other methods along the way
-- 
