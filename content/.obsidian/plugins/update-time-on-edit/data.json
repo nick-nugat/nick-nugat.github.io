@@ -16,8 +16,10 @@
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
     "cmsc204/review/reviewing for midterm 1.md": "8c7d7163ce2fd3f423053cbe01c14354515482bcdfed0f9725ecbff0e43b2bf7",
-    "Data structures.md": "c9709c1ded00cad8269cfc8b718cba4941a6bb3501282fdeee5d6a2b54916ee3",
+    "Data structures.md": "1bef1f82abc3ef4d37e721e27e6e8f750fc28c179e34c12c0b8a3a274262b640",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
-    "Iterator interface in Java.md": "e70790f287287be525bde84e6cc0a0af2cb68a96a9ab410b167a1cfd4389a061"
+    "Iterator interface in Java.md": "e70790f287287be525bde84e6cc0a0af2cb68a96a9ab410b167a1cfd4389a061",
+    "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
+    "Big O notation.md": "37c0f519a6d6488aea76e435311f3d118cb3fff1457501a62bc9f411bee10151"
   }
 }

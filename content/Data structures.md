@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-01-31
 language: java
-updated: 2024-02-21T13:10
+updated: 2024-02-21T14:25
 title: Data structures
 ---
 # [[Data structures]]
