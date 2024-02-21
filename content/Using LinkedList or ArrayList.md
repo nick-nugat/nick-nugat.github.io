@@ -3,7 +3,7 @@ aliases:
 date: 2024-02-07
 language: 
 title: Using LinkedList or ArrayList
-updated: 2024-02-21T00:13
+updated: 2024-02-21T11:37
 ---
 # [[Using LinkedList or ArrayList]]
 | Linked lists  | Array lists  |
