@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-21T13:39
+updated: 2024-02-21T13:45
 ---
 # [[Iterator interface in Java]]
 
@@ -17,6 +17,10 @@ updated: 2024-02-21T13:39
 - `remove()`: void
 	- deletes element *before* cursor 
 	- cursor doesn't move
+
+## Implementation
+### Inside data structure class (inner class)
+
 
 
 ___
