@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-21T13:45
+updated: 2024-02-21T13:53
 ---
 # [[Iterator interface in Java]]
 
@@ -21,6 +21,11 @@ updated: 2024-02-21T13:45
 ## Implementation
 ### Inside data structure class (inner class)
 
+
+
+## Multiple iterators
+![[working-with-multiple-iterators.png|500]]
+In this example, nested while-loops are used to count both a certain name and the amount of times it appears in a certain iterator.
 
 
 ___
