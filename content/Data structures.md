@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-01-31
 language: java
-updated: 2024-02-21T11:37
+updated: 2024-02-21T13:10
 title: Data structures
 ---
 # [[Data structures]]
@@ -16,7 +16,6 @@ title: Data structures
 	- procedural abstraction
 	- data abstraction
 
-___
 ## Nodes
 - contains data; one or more links to other nodes
 - can be used to represent structures like **linked lists** and **trees**
@@ -24,7 +23,6 @@ ___
 	- orphaned nodes - no links pointing to them except for head node
 	- null node - " A `NULL` value in the link part of a node’s info denotes that the path or data structure contains no further nodes."
 
-___
 
 > [!NOTE] 4 operations:
 > - insert
@@ -44,6 +42,7 @@ ___
 - push() -> adds element to top
 	- insert
 - peek() -> returns element on top
+
 ### When would I want to use a Stack?
 - making sure parentheses line up in an expression
 	- if nothing on stack -> everything lines up

@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "livePreview": false
 }
