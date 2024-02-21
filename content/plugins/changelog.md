@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-21T14:10
+updated: 2024-02-21T14:11
 ---
 - 2024-02-21 at 14h09 · [[Iterator interface in Java]]
 - 2024-02-21 at 13h10 · [[Data structures]]
