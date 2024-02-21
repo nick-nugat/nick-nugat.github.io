@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-21T13:12
+updated: 2024-02-21T13:14
 ---
 - 2024-02-21 at 13h10 · [[Data structures]]
 - 2024-02-21 at 11h48 · [[index]]

@@ -1,9 +1,8 @@
 ---
-aliases: "202402190208"
-tags: 
-date: 2024-02-19
-created: 2024-02-19T02:08
-updated: 2024-02-19T02:08
+aliases: "<% tp.file.creation_date("YYYYMMDDHHmm") %>"
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm") %>
+updated: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm") %>
 ---
-# [[StringBuilder class in Java]]
+# [[<% tp.file.title %>]]
 <% tp.file.cursor() %>

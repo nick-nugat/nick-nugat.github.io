@@ -1,4 +1,4 @@
 ---
-tags: daily
+type: daily
 ---
 <% tp.file.cursor() %>
