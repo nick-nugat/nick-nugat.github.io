@@ -15,7 +15,7 @@ updated: 2024-02-21T13:39
 - `next()`:  T
 	- returns next element
 - `remove()`: void
-	- deletes element *before* cursor
+	- deletes element *before* cursor 
 	- cursor doesn't move
 
 
