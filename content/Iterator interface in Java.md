@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-21T13:59
+updated: 2024-02-21T14:09
 ---
 # [[Iterator interface in Java]]
 
@@ -26,8 +26,6 @@ updated: 2024-02-21T13:59
 - external iterator
 - `Iterator` class can be used in multiple data structures
 - implementation unencapsulates the data structure
-
-
 
 
 ## Multiple iterators
