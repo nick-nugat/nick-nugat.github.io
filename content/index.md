@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-21T11:37
+updated: 2024-02-21T11:48
 title: 🤔 How did you end up here?
 ---
 # Welcome! 👋
@@ -22,11 +22,11 @@ ___
 # Interested?
 
 > [!important] If you want to support my journey, here are some of my other projects 👀
-> - [`courses/CMSC140`](https://github.com/nick-nugat/CMSC140)
-> - [`courses/CMSC203`](https://github.com/nick-nugat/CMSC203)
-> - [`courses/CMSC204`](https://github.com/nick-nugat/CMSC204)
-> - [`languages/learning-cpp`](https://github.com/nick-nugat/learning-cpp)
-> - [`languages/learning-java`](https://github.com/nick-nugat/learning-java)
-> - [`languages/learning-python`](https://github.com/nick-nugat/learning-python)
+> - [**C++** is a language I want to continue learning.](https://github.com/nick-nugat/learning-cpp)
+> 	- [**CMSC140** was a class I took that introduced me to C++](https://github.com/nick-nugat/CMSC140)
+> - [**Java** is the first language I ever learned and continue to enjoy coding in.](https://github.com/nick-nugat/learning-java)
+> 	- [**CMSC203** is  a course focusing mainly on the basics of Java.](https://github.com/nick-nugat/CMSC203)
+> 	- [**CMSC204** is a course I'm currently taking on data structures, a topic that I need lots of work on. :)](https://github.com/nick-nugat/CMSC204)
+> - [**Python** is a language I want to get into, and I will be taking a course on it this summer!](https://github.com/nick-nugat/learning-python)
 
 
