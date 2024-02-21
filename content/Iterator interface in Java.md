@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-21T13:29
+updated: 2024-02-21T13:32
 ---
 # [[Iterator interface in Java]]
 
@@ -13,3 +13,8 @@ updated: 2024-02-21T13:29
 - `hasNext()`
 - `next()`
 - `remove()`
+
+
+___
+## References
+- [[Module 11 - Iterators and Interfaces.pptx]]
