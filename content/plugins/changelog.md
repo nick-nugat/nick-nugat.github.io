@@ -1,7 +1,7 @@
 ---
-updated: 2024-02-21T13:27
+updated: 2024-02-21T13:29
 ---
-- 2024-02-21 at 13h27 · [[Iterator interface in Java]]
+- 2024-02-21 at 13h29 · [[Iterator interface in Java]]
 - 2024-02-21 at 13h10 · [[Data structures]]
 - 2024-02-21 at 11h48 · [[index]]
 - 2024-02-21 at 11h37 · [[Java notes]]
