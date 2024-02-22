@@ -1,16 +1,16 @@
 ---
-updated: 2024-02-22T00:29
+updated: 2024-02-22T00:37
 ---
+- 2024-02-22 at 00h37 · [[Java]]
+- 2024-02-22 at 00h36 · [[Programming]]
 - 2024-02-22 at 00h15 · [[Iterator interface in Java]]
 - 2024-02-22 at 00h05 · [[VM arguments for JavaFX]]
 - 2024-02-21 at 14h25 · [[Big O notation]]
 - 2024-02-21 at 14h25 · [[Data structures]]
 - 2024-02-21 at 14h25 · [[Basic operations and functions in CPP]]
 - 2024-02-21 at 11h48 · [[index]]
-- 2024-02-21 at 11h37 · [[Java notes]]
 - 2024-02-21 at 11h37 · [[CPP notes]]
 - 2024-02-21 at 11h37 · [[Debugging in intellij]]
-- 2024-02-21 at 11h37 · [[Programming]]
 - 2024-02-21 at 11h37 · [[scratchpad]]
 - 2024-02-21 at 11h37 · [[What do put at the top of your files in CPP]]
 - 2024-02-21 at 11h37 · [[StringBuilder class in Java]]
