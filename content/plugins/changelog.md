@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-22T00:15
+updated: 2024-02-22T00:29
 ---
 - 2024-02-22 at 00h15 · [[Iterator interface in Java]]
 - 2024-02-22 at 00h05 · [[VM arguments for JavaFX]]
