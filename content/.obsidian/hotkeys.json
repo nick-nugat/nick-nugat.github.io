@@ -107,14 +107,6 @@
     }
   ],
   "graph:open": [],
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -209,6 +201,14 @@
         "Mod"
       ],
       "key": "J"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
     }
   ]
 }
