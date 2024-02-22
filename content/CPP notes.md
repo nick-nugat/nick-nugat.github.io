@@ -3,9 +3,9 @@ aliases:
   - "202306071010"
 language:
   - cpp
-updated: 2024-02-21T11:37
+updated: 2024-02-22T00:43
 created: 2023-06-07T10:10:00
-title: CPP notes
+title: C++ notes
 ---
 # Getting started with C++
 [[What do put at the top of your files in CPP]]

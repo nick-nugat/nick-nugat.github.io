@@ -4,9 +4,8 @@ aliases:
 language:
   - java
 created: 2023-10-09T11:17
-updated: 2024-02-22T00:37
+updated: 2024-02-22T00:43
 title: Java notes
-description: this is a test
 ---
 # Java
 - [[StringBuilder class in Java]]

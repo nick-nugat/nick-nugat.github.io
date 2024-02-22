@@ -3,11 +3,11 @@ tags:
 aliases:
   - "202306121150"
   - General/overall coding notes
-updated: 2024-02-22T00:36
+updated: 2024-02-22T00:42
 title: Programming
 ---
 # General coding notes
-- [[Java]]
+- [[Java notes]]
 - [[CPP notes]]
 
 ## Flowcharts
