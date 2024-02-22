@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-21T14:09
+updated: 2024-02-22T00:15
 ---
 # [[Iterator interface in Java]]
 
@@ -31,6 +31,7 @@ updated: 2024-02-21T14:09
 ## Multiple iterators
 > [!example]
 > ![[working-with-multiple-iterators.png|500]]
+> 
 > In this example, nested while-loops are used to count both a certain name and the amount of times it appears in a certain iterator.
 
 

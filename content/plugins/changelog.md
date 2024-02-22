@@ -1,11 +1,11 @@
 ---
-updated: 2024-02-22T00:05
+updated: 2024-02-22T00:15
 ---
+- 2024-02-22 at 00h15 · [[Iterator interface in Java]]
 - 2024-02-22 at 00h05 · [[VM arguments for JavaFX]]
 - 2024-02-21 at 14h25 · [[Big O notation]]
 - 2024-02-21 at 14h25 · [[Data structures]]
 - 2024-02-21 at 14h25 · [[Basic operations and functions in CPP]]
-- 2024-02-21 at 14h09 · [[Iterator interface in Java]]
 - 2024-02-21 at 11h48 · [[index]]
 - 2024-02-21 at 11h37 · [[Java notes]]
 - 2024-02-21 at 11h37 · [[CPP notes]]
