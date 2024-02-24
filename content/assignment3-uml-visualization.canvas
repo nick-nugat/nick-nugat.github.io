@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"10d67d6f3d332b33","x":-355,"y":-384,"width":635,"height":524,"type":"text","text":"___\n# BasicDoubleLinkedList\n___\n- elements:BasicDoubleLinkedList<T>\n- head: T\n- size: int\n- tail: T\n___\n+ BasicDoubleLinkedList)\n+ addToEnd (T): void\n+ addToFront (T):void\n+ getFirst):T\n+ getLast(:T\n+ getSize():int\n+ iterator ):Listiterator<1»\n+ remove(T. Comparator<T>):Node\n+ retrieveFirstElement:T\n+ retrieveLastElementO:!\n+ toArrayListO: Array List<T>\n"}
+		{"id":"10d67d6f3d332b33","x":-355,"y":-384,"width":635,"height":524,"type":"text","text":"___\n# BasicDoubleLinkedList\n___\n\\- elements:BasicDoubleLinkedList<T>\n\\- head: T\n\\- size: int\n\\- tail: T\n___\n\\+ BasicDoubleLinkedList()\n\\+ addToEnd (T): void\n\\+ addToFront (T): void\n\\+ getFirst):T\n\\+ getLast(:T\n\\+ getSize():int\n\\+ iterator ):Listiterator<1>\n\\+ remove(T. Comparator<T>):Node\n\\+ retrieveFirstElement:T\n\\+ retrieveLastElementO:!\n\\+ toArrayListO: Array List<T>\n"}
 	],
 	"edges":[]
 }
