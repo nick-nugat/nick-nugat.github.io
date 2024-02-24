@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Atom",
   "textFontFamily": "",
   "baseFontSize": 18,
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "theme": "obsidian"
 }

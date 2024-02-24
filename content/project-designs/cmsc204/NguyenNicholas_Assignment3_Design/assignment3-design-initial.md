@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-02-22
 created: 2024-02-22T00:48
-updated: 2024-02-23T23:47
+updated: 2024-02-23T23:51
 ---
 # Initial Assignment 3 Design
 > Nicholas Nguyen
@@ -20,6 +20,9 @@ ___
 	- other methods and fields of a doubly linked list implementation
 - generic class `SortedDoubleLinkedList<T>` that extends `BasicDoubleLinkedList<T>`
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## UML diagram
 ```mermaid
