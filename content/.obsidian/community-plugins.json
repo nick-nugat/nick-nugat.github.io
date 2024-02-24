@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "templater-obsidian",
   "obsidian-style-settings",
   "cm-editor-syntax-highlight-obsidian",
@@ -9,5 +8,6 @@
   "settings-search",
   "obsidian-hider",
   "obsidian-paste-image-rename",
-  "quickadd"
+  "quickadd",
+  "obsidian-git"
 ]
