@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"10d67d6f3d332b33","x":-355,"y":-384,"width":635,"height":524,"type":"text","text":"___\n# BasicDoubleLinkedList\n___\n- elements:BasicDoubleLinkedList<T>\n- head: T\n- size: int\n- tail: T\n___\n+ BasicDoubleLinkedList()\n+ getSize(): int\n+ addToEnd (data: T): void\n+ addToFront (data: T): void\n+ getFirst():T\n+ getLast():T\n+ iterator(): ListIterator<T>\n+ remove(T. Comparator<T>):Node\n+ retrieveFirstElement(): T\n+ retrieveLastElement(): T\n+ toArrayList(): ArrayList<T>\n"}
-	],
-	"edges":[]
-}
