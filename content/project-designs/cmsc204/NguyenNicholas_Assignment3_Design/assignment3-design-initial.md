@@ -4,19 +4,19 @@ type: design
 language: java
 date: 2024-02-22
 created: 2024-02-22T00:48
-updated: 2024-02-23T23:35
+updated: 2024-02-23T23:42
 ---
 # Initial Assignment 3 Design
 > Nicholas Nguyen
 ___
 
 ## Pseudocode
-generic class `BasicDoubleLinkedList<T>` that implements `Iterable` interface
-- contains:
+- generic class `BasicDoubleLinkedList<T>` that implements `Iterable` interface
 	- inner class `Node`
 	- generic inner class `DoubleLinkedListIterator<T>` that implements `ListIterator<T>` (from the java.util library)
 	- other methods and fields of a doubly linked list implementation
-generic class `SortedDoubleLinkedList<T>` that extends `BasicDoubleLinkedList<T>`
+- generic class `SortedDoubleLinkedList<T>` that extends `BasicDoubleLinkedList<T>`
+	- has another `add()` 
 
 
 ## UML diagram
