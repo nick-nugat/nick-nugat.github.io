@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "textFontFamily": "",
+  "cssTheme": "Atom",
+  "textFontFamily": "Inter",
   "baseFontSize": 16,
   "monospaceFontFamily": "JetBrains Mono",
   "theme": "obsidian",

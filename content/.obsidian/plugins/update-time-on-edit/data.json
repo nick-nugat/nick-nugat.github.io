@@ -15,7 +15,7 @@
   "fileHashMap": {
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
-    "Data structures.md": "3b57239e91db02539ec142542202189cdafcf4351c76a03b1e93f2476d0e721b",
+    "Data structures.md": "e89c1cc6ba5abfdd4b7ab8fb4f16f94677229af12c16bbbaeaedcd5f2bbb3f04",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
     "Iterator interface in Java.md": "6283e98a180e715a8c9a2a1e2421d38be19e8d8b3ff5fd0d6480cabcd2f47b45",
     "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
@@ -30,7 +30,7 @@
     "project-designs/cmsc204/NguyenNicholas_Assignment2_Design/assignment2-design-final_questions.md": "f3c02c91741b810fc6d85d87ed6cb6c56235a7af32fe5def54a8b305271263bf",
     "project-designs/cmsc204/NguyenNicholas_Assignment2_Design/assignment2-design-initial.md": "28074765fa7343e3170705518849d557394035d189b100577c17a1dcc59079e0",
     "index.md": "8d723ddf3d9d3c7e4aed5e925f4db8b497228cf8a8350c45917505dac1fe84a5",
-    "Hashing.md": "50b16ef592e535750aeb4d8b4cdf14c2b270c39c1b95ffab9f6df7ec5d880845",
+    "Hashing.md": "7af597e10983ac7f76851cb6e99f5f2b3f6a1bb8a9c8925dc3e7ff7d0934070f",
     "Nodes.md": "0d215b4563faa08d15b82015f1bc73ac468395e420597a1fd0d3115805353491",
     "Stack.md": "a65ff11a428dca6c1d7140c7d859dde350f2a2329e5a3829aa2ea6fc2df074e3",
     "Queue.md": "5a2b6b37fedd806a561de8b7d9739d38ed6e7d4202012973ea7aeddc12eb4b9b",

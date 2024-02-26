@@ -1,11 +1,15 @@
 ---
-updated: 2024-02-26T14:21
+updated: 2024-02-26T14:27
 aliases:
   - Hash tables
 ---
 # Hashing
+## Hash tables
 - hash tables can be used to locate elements in a [[Data structures|data structure]] without searching linearly
-- hash functions compute an integer value (hash code) from an object
+## Hash functions
+- hash functions compute an integer value (hash code) from an object in the hash table
+- search key is mapped, or hashed, to the index
+
 - common way to scale integer is to use the `%` (modulo) operator
 
 ```java
@@ -26,4 +30,7 @@ int h = x.hashCode();
 1. use another location in hash table
 2. change hash table structure so array can represent more than one value
 
-
+#### Three kinds of locations on hash table
+1. occupied
+2. empty (null or never contained anything)
+3. available
