@@ -1,7 +1,7 @@
 ---
-updated: 2024-02-26T14:13
+updated: 2024-02-26T14:21
 aliases:
-  - hash tables
+  - Hash tables
 ---
 # Hashing
 - hash tables can be used to locate elements in a [[Data structures|data structure]] without searching linearly
@@ -25,3 +25,5 @@ int h = x.hashCode();
 ### Resolving them
 1. use another location in hash table
 2. change hash table structure so array can represent more than one value
+
+
