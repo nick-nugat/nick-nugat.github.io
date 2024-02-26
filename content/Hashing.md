@@ -8,9 +8,9 @@ aliases:
 - hash tables can be used to locate elements in a [[Data structures|data structure]] without searching linearly
 ## Hash functions
 - hash functions compute an integer value (hash code) from an object in the hash table
+	- common way to scale integer is to use the `%` (modulo) operator
 - search key is mapped, or hashed, to the index
 
-- common way to scale integer is to use the `%` (modulo) operator
 
 ```java
 code % n //good to use an odd num for `n`
