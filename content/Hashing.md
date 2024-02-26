@@ -1,10 +1,10 @@
 ---
-updated: 2024-02-26T14:08
+updated: 2024-02-26T14:13
 aliases:
   - hash tables
 ---
-# Hashing (hash tables)
-- can be used to locate elements in a [[Data structures|data structure]] without searching linearly
+# Hashing
+- hash tables can be used to locate elements in a [[Data structures|data structure]] without searching linearly
 - hash functions compute an integer value (hash code) from an object
 - common way to scale integer is to use the `%` (modulo) operator
 

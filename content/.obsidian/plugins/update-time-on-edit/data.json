@@ -15,7 +15,7 @@
   "fileHashMap": {
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
-    "Data structures.md": "472c3e7561203fe1c8c0ae0fa4f9b43b3c8bfc1c1c69d678be2d57d2cccdd5d7",
+    "Data structures.md": "3b57239e91db02539ec142542202189cdafcf4351c76a03b1e93f2476d0e721b",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
     "Iterator interface in Java.md": "6283e98a180e715a8c9a2a1e2421d38be19e8d8b3ff5fd0d6480cabcd2f47b45",
     "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
@@ -31,10 +31,11 @@
     "project-designs/cmsc204/NguyenNicholas_Assignment2_Design/assignment2-design-initial.md": "28074765fa7343e3170705518849d557394035d189b100577c17a1dcc59079e0",
     "daily/2024-02-26.md": "c6afd1297e4810d9964d81d8d4f64072b6d873da90adaa60edbe8a84303bd996",
     "index.md": "8d723ddf3d9d3c7e4aed5e925f4db8b497228cf8a8350c45917505dac1fe84a5",
-    "Hashing.md": "a5648e804ca047805e8086b0ed1454786678732dfb22bcd76ec2a29c210e357d",
+    "Hashing.md": "72a9c90e87031f3e7d9981707880876bd57ae49ff4067f7c904c9f3625fea463",
     "Nodes.md": "0d215b4563faa08d15b82015f1bc73ac468395e420597a1fd0d3115805353491",
     "Stack.md": "a65ff11a428dca6c1d7140c7d859dde350f2a2329e5a3829aa2ea6fc2df074e3",
     "Queue.md": "5a2b6b37fedd806a561de8b7d9739d38ed6e7d4202012973ea7aeddc12eb4b9b",
-    "Abstraction.md": "79fd47b52dc7bd5d5f064357a1c177a2cf63cb5b25a4b5a80abd7b6eae05ab1a"
+    "Abstraction.md": "f4dafb1fc5457722cd74cb5440c79faa7c02d2e188c5b9ce559cca55b054fdc2",
+    "ADT bags.md": "9b5b2bce8bcd07e1c24577ef9459fccfd7e9d268977f1ee560aff5f241dc8d32"
   }
 }
