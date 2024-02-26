@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-26T13:21
+updated: 2024-02-26T13:23
 title: 😵‍💫😵‍💫😵‍💫
 ---
 # Welcome! 👋
@@ -20,9 +20,9 @@ title: 😵‍💫😵‍💫😵‍💫
 
 ___
 # My other projects
-- [**C++** is a language I want to continue learning.](https://github.com/nick-nugat/learning-cpp)
-	- [**CMSC140** was a class I took that introduced me to C++](https://github.com/nick-nugat/CMSC140)
-- [**Java** is the first language I ever learned and continue to enjoy coding in.](https://github.com/nick-nugat/learning-java)
-	- [**CMSC203** is  a course focusing mainly on the basics of Java.](https://github.com/nick-nugat/CMSC203)
-	- [**CMSC204** is a course I'm currently taking on data structures, a topic that I need lots of work on. :)](https://github.com/nick-nugat/CMSC204)
-- [**Python** is a language I want to get into, and I will be taking a course on it this summer!](https://github.com/nick-nugat/learning-python)
+- [C++](https://github.com/nick-nugat/learning-cpp) is a language I want to continue learning.
+	- [CMSC140](https://github.com/nick-nugat/CMSC140) was a class I took that introduced me to C++
+- [Java](https://github.com/nick-nugat/learning-java) is my first language and I continue to code in it to this day.
+	- [CMSC203](https://github.com/nick-nugat/CMSC203) is a course focusing mainly on the basics of Java.
+	- [CMSC204](https://github.com/nick-nugat/CMSC204) is a course I'm currently taking on data structures, a topic that I need lots of work on. :)
+- [Python](https://github.com/nick-nugat/learning-python) is a language I want to get into, and I will be taking a course on it this summer!
