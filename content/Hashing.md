@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-26T14:27
+updated: 2024-02-26T14:35
 aliases:
   - Hash tables
 ---
@@ -11,9 +11,19 @@ aliases:
 	- common way to scale integer is to use the `%` (modulo) operator
 - search key is mapped, or hashed, to the index
 
-
 ```java
 code % n //good to use an odd num for `n`
+```
+
+```java
+/*compressing a hash code*/
+private int getHashIndex(K key){
+   int hashIndex = key.hashCode() % hashTable.length;
+   if (hashIndex < 0)
+      hashIndex = hashIndex + hashTable.length;
+      
+   return hashIndex;
+} // end getHashIndex
 ```
 ## Examples
 ### Computing hash code from object `x`
