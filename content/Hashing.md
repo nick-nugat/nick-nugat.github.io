@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T14:24
+updated: 2024-02-28T14:29
 aliases:
   - Hash tables
   - Hash functions
@@ -69,7 +69,7 @@ adds successive values of an **arbitrary quadratic polynomial** until an open sl
 > This process will be repeated for all the values of ****i**** until an empty slot is found
 
 
-##### Example sequence
+Example sequence:
 $$
 H + 12, H + 22, H + 32, H + 42…………………. H + k2
 $$
