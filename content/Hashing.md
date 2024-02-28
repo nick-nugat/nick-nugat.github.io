@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T14:12
+updated: 2024-02-28T14:14
 aliases:
   - Hash tables
   - Hash functions
@@ -60,18 +60,25 @@ hash table is searched **sequentially**.
 
 
 #### Quadratic probing
-Searches thorugh 
+adds successive values of an **arbitrary quadratic polynomial** until an open slot is found.
+
+> [!note] Algorithm
+> If the slot hash(x) % n is full, then we try (hash(x) + 12) % n.  
+> If (hash(x) + 12) % n is also full, then we try (hash(x) + 22) % n.  
+> If (hash(x) + 22) % n is also full, then we try (hash(x) + 32) % n.  
+> This process will be repeated for all the values of ****i**** until an empty slot is found
+
 
 ##### Example sequence
-$$H + 12, H + 22, H + 32, H + 42…………………. H + k2$$
-
-
-
+$$
+H + 12, H + 22, H + 32, H + 42…………………. H + k2
+$$
 
 > [!example]-
 > ![[quadratic-probing-example.png]]
 
 #### Buckets
+
 #### Clustering
 
 ### Three kinds of locations on hash table
