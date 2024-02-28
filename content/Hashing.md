@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T14:06
+updated: 2024-02-28T14:12
 aliases:
   - Hash tables
   - Hash functions
@@ -42,7 +42,8 @@ int h = x.hashCode();
 2. change hash table structure so array can represent more than one value
 
 #### Linear probing
-- searching sequentially
+hash table is searched **sequentially**.
+- if location is **occupied**, search the *next* location
 
 > [!NOTE] Algorithm
 > 1. Calculate the hash key. i.e. **key = data % size**
@@ -59,7 +60,16 @@ int h = x.hashCode();
 
 
 #### Quadratic probing
+Searches thorugh 
 
+##### Example sequence
+$$H + 12, H + 22, H + 32, H + 42…………………. H + k2$$
+
+
+
+
+> [!example]-
+> ![[quadratic-probing-example.png]]
 
 #### Buckets
 #### Clustering
