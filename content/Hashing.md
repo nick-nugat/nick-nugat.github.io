@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T14:01
+updated: 2024-02-28T14:06
 aliases:
   - Hash tables
   - Hash functions
@@ -53,7 +53,14 @@ int h = x.hashCode();
 > 4. Check, if the next index is available hashTable[key] then store the value. Otherwise try for next index.
 > 5. Do the above process till we find the space.
 
+
+> [!example]-
+> ![[linear-probing-example.png]]
+
+
 #### Quadratic probing
+
+
 #### Buckets
 #### Clustering
 
