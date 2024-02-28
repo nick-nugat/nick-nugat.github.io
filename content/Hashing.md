@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T14:14
+updated: 2024-02-28T14:24
 aliases:
   - Hash tables
   - Hash functions
@@ -88,3 +88,4 @@ $$
 
 # References
 - [Introduction to Hashing - Data Structure and Algorithm Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-hashing-data-structure-and-algorithm-tutorials/)
+	- [*highlights here*](obsidian://open?vault=NguyenN_Vault&file=_inbox%2Fomnivore%2FIntroduction%20to%20Hashing%20-%20Data%20Structure%20and%20Algorithm%20Tutorials%20-%20GeeksforGeeks)
