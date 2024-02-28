@@ -5,5 +5,8 @@
   "baseFontSize": 16,
   "monospaceFontFamily": "JetBrains Mono",
   "theme": "obsidian",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "bigger-latex-font-size"
+  ]
 }

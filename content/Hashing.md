@@ -1,9 +1,10 @@
 ---
-updated: 2024-02-26T14:35
+updated: 2024-02-28T13:57
 aliases:
   - Hash tables
+  - Hash functions
 ---
-# Hashing
+# [[Hashing]]
 ## Hash tables
 - hash tables can be used to locate elements in a [[Data structures|data structure]] without searching linearly
 ## Hash functions
@@ -40,7 +41,14 @@ int h = x.hashCode();
 1. use another location in hash table
 2. change hash table structure so array can represent more than one value
 
-#### Three kinds of locations on hash table
+#### Linear probing
+
+### Three kinds of locations on hash table
 1. occupied
 2. empty (null or never contained anything)
 3. available
+
+
+#### Quadratic probing
+#### Buckets
+#### Clustering
