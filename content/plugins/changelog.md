@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-28T19:09
+updated: 2024-02-28T21:47
 ---
 - 2024-02-28 at 14h29 · [[Hashing]]
 - 2024-02-26 at 14h22 · [[Data structures]]
@@ -17,7 +17,7 @@ updated: 2024-02-28T19:09
 - 2024-02-21 at 14h25 · [[Big O notation]]
 - 2024-02-21 at 14h25 · [[Basic operations and functions in CPP]]
 - 2024-02-21 at 11h37 · [[Debugging in intellij]]
-- 2024-02-21 at 11h37 · [[_symlinks/coding-vault/assets/scratchpad]]
+- 2024-02-21 at 11h37 · [[scratchpad]]
 - 2024-02-21 at 11h37 · [[What do put at the top of your files in CPP]]
 - 2024-02-21 at 11h37 · [[StringBuilder class in Java]]
 - 2024-02-21 at 11h37 · [[Internal links]]
