@@ -1,6 +1,3 @@
----
-updated: 2024-02-28T21:47
----
 - 2024-02-28 at 14h29 · [[Hashing]]
 - 2024-02-26 at 14h22 · [[Data structures]]
 - 2024-02-26 at 14h12 · [[ADT bags]]

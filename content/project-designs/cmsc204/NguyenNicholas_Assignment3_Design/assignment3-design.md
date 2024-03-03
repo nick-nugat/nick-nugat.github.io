@@ -4,14 +4,21 @@ type: design
 language: java
 date: 2024-02-22
 created: 2024-02-22T00:48
-updated: 2024-02-23T23:57
+updated: 2024-03-03T03:01
 ---
-# Initial Assignment 3 Design
+# Final Assignment 3 Design
 > - Nicholas Nguyen
 > - [CMSC204 GitHub Repository](https://github.com/nick-nugat/cmsc204)
-> - [*View on my website*](https://nick-nugat.github.io/coding-notes/project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design-initial)
+> - [*Note on website*](https://nick-nugat.github.io/coding-notes/project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design-initial)
 ___
+## GitHub screenshot
+![[assignment3-github-screenshot.png]]
 
+## Learning experience
+I felt that this project was pretty difficult, honestly. However, sitting down and taking the time to finally understand the concepts made things a lot easier when implementing my code.
+
+___
+# Initial
 ## Pseudocode
 %% barebones structure/layout %%
 - generic class `BasicDoubleLinkedList<T>` that implements `Iterable` interface
