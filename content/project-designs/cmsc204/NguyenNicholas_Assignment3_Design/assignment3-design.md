@@ -4,12 +4,12 @@ type: design
 language: java
 date: 2024-02-22
 created: 2024-02-22T00:48
-updated: 2024-03-03T03:06
+updated: 2024-03-03T03:07
 ---
 # Final Assignment 3 Design
-> - Nicholas Nguyen
-> - [CMSC204 GitHub Repository](https://github.com/nick-nugat/cmsc204)
-> - [*Note on website*](https://nick-nugat.github.io/coding-notes/project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design-initial)
+- Nicholas Nguyen
+- [CMSC204 GitHub Repository](https://github.com/nick-nugat/cmsc204)
+- [*Note on website*](https://nick-nugat.github.io/coding-notes/project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design-initial)
 ___
 ## GitHub screenshot
 ![[assignment3-github-screenshot.png]]
@@ -19,7 +19,7 @@ I felt that this project was pretty difficult, honestly. However, sitting down a
 
 I think I had the most trouble understanding where to point nodes to in certain situations, as well as what that meant in the context of the list. I also was confused about how I would implement the `add()` method in the `SortedDoubleLinkedList<T>` class.
 
-
+I feel like this project taught me more about linked list—especially doubly linked lists—and how they can be used.
 
 ___
 # Initial
