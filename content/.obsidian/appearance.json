@@ -7,6 +7,7 @@
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
-    "bigger-latex-font-size"
+    "bigger-latex-font-size",
+    "image_zoom"
   ]
 }

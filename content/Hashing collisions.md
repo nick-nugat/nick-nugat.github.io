@@ -1,15 +1,17 @@
 ---
-updated: 2024-03-03T16:55
+updated: 2024-03-03T17:27
 ---
 # Collisions
-- happens when a hash function maps a search key into a location the hash table is already using
-## Resolving them
-1. use another location in hash table
-2. change hash table structure so array can represent more than one value
+Collisions happens when a hash function maps a search key into a location the hash table is already using.
+
+> [!important]+ There are three kinds of locations on a hash table:
+> 1. occupied
+> 2. empty (null or never contained anything)
+> 3. available
 
 ### Linear probing
-hash table is searched **sequentially**.
-- if location is **occupied**, search the *next* location
+The hash table is searched **sequentially**.
+- if location is **occupied**, search the *next* location with a certain algorithm
 
 > [!NOTE] Algorithm
 > 1. Calculate the hash key. (i.e. **key = data % size**)
@@ -44,11 +46,8 @@ $$
 > [!example]-
 > ![[quadratic-probing-example.png]]
 
-### Buckets
 
-### Clustering
+## Resolving them
+1. use another location in hash table
+2. change hash table structure so array can represent more than one value
 
-## Three kinds of locations on hash table
-1. occupied
-2. empty (null or never contained anything)
-3. available
