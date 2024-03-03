@@ -8,7 +8,7 @@
     "pageSize": "Letter",
     "landscape": true,
     "margin": "0",
-    "downscalePercent": 76
+    "downscalePercent": 80
   },
   "attachmentFolderPath": "assets"
 }
