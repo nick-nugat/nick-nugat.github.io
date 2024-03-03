@@ -1,5 +1,5 @@
 ---
-updated: 2024-03-03T16:54
+updated: 2024-03-03T16:55
 ---
 # Collisions
 - happens when a hash function maps a search key into a location the hash table is already using
@@ -12,14 +12,14 @@ hash table is searched **sequentially**.
 - if location is **occupied**, search the *next* location
 
 > [!NOTE] Algorithm
-> 1. Calculate the hash key. i.e. **key = data % size**
+> 1. Calculate the hash key. (i.e. **key = data % size**)
 > 2. Check:
 > 	- if **hashTable[key]** is empty
 > 	    - store the value directly by **hashTable[key] = data**
-> 1. If the hash index already has some value then
->     -  check for next index using **key = (key+1) % size**
-> 2. Check, if the next index is available hashTable[key] then store the value. Otherwise try for next index.
-> 3. Do the above process till we find the space.
+> 	- otherwise
+> 	    -  check for next index using **key = (key+1) % size**
+> 3. Check, if the next index is available hashTable[key] then store the value. Otherwise try for next index.
+> 4. Do the above process till we find the space.
 
 
 > [!example]-
