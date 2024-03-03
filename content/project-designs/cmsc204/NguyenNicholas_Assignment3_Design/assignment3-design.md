@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-02-22
 created: 2024-02-22T00:48
-updated: 2024-03-03T03:01
+updated: 2024-03-03T03:06
 ---
 # Final Assignment 3 Design
 > - Nicholas Nguyen
@@ -16,6 +16,10 @@ ___
 
 ## Learning experience
 I felt that this project was pretty difficult, honestly. However, sitting down and taking the time to finally understand the concepts made things a lot easier when implementing my code.
+
+I think I had the most trouble understanding where to point nodes to in certain situations, as well as what that meant in the context of the list. I also was confused about how I would implement the `add()` method in the `SortedDoubleLinkedList<T>` class.
+
+
 
 ___
 # Initial
