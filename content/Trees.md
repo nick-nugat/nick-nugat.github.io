@@ -4,7 +4,7 @@ aliases:
 language: 
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:14
+updated: 2024-03-06T00:18
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -34,11 +34,19 @@ Trees are a form of hierarchical way of organization.
 ### Types of traversals
 ![[binary-tree-traversal-types.png]]
 
-> [!example]-
-> ![[binary-tree-preorder-traversal.png]]
-> ![[binary-tree-in-order-traversal.png]]
-> ![[binary-tree-postorder-traversal.png]]
-> ![[Pasted image 20240306001442.png]]
+#### Preorder
+![[binary-tree-preorder-traversal.png]]
+
+#### In-order
+> [!warning] This is not ideal for general tree traversal!
+
+![[binary-tree-in-order-traversal.png]]
+
+#### Postorder
+![[binary-tree-postorder-traversal.png]]
+
+#### Level-order
+![[binary-tree-level-order-traversal.png]]
 
 ___
 ## References
