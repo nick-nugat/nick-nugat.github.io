@@ -15,7 +15,7 @@
   "fileHashMap": {
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
-    "Data structures.md": "5a2d2767c80038151b862a5b574042aec61c89ebd44b2f1dd7457999b3188223",
+    "Data structures.md": "a7c0f4cd629948d2088b9820506ba6464457b7f8e78deb657d3f373e71edb5b6",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
     "Iterator interface in Java.md": "6283e98a180e715a8c9a2a1e2421d38be19e8d8b3ff5fd0d6480cabcd2f47b45",
     "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
@@ -36,8 +36,8 @@
     "Abstraction.md": "63db1279d65d3c634908feb70d661362b3f21222a994b88791161909d2079462",
     "project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design.md": "541bf8f384dad8dc53fd55e326447ef6273f27cd91b0451b2d28b4cea9957c09",
     "Hashing collisions.md": "db13728e38290fd0d185718c4c056de0a29897dfbb5edab4a9807e9b47f63415",
-    "Trees.md": "1a7b54cd6c9be8169525d83ecbb1172dbad244a824cc8d1eb5c21ea756628df3",
-    "Abstract data types.md": "5c0b88703a3f9871c633c18e0b27d58505f290e4a5fcb4b1b0f7aded48512e66",
+    "Trees.md": "e03b66594fb29c40af567199545c4032350f4d1d636babcc5d22d8c9af75c343",
+    "Abstract data types.md": "ae853f45bd6474764aa7d98e0fb8f94942fd7dc136ecbd492c2640d33c713a43",
     "Bags.md": "db566ed55f7eb88ffd0f9c6e379bd332bca65a153aa094ba0bb74dcd0d1bd2d0"
   }
 }

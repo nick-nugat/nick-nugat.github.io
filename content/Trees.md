@@ -5,14 +5,14 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T01:09
+updated: 2024-03-06T01:14
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
 
 ## Visual examples
-> [!example]-
-> ![[family-tree.png]]
+> [!example]
+> ![[family-tree.png|500]]
 > ![[folder-tree.png]]
 > ![[terminology-in-trees.png]]
 > ![[binary-tree-example.png]]
@@ -131,21 +131,16 @@ These can be used for things like a guessing game.
 	- node's data is **greater than** all data in node's left subtree
 	- node's data is **less than** all data in node's right subtree
 - every node is **the root** of a binary search tree
-
-![[two-different-binary-search-trees.png]]
-
 ##### Efficiency of search
-Searching a binary search tree is $O(h)$, where $h$ is height.
-- The operations add, remove, and getEntry are O(h)
+- Searching a binary search tree is $O(h)$, where $h$ is height.
+	- The operations add, remove, and getEntry are O(h)
+- If tree of $n$ nodes has height $h = n$, these operations are $O(n)$
+- Increase efficiency by making sure tree is as short as possible.
 
-If tree of $n$ nodes has height $h = n$, these operations are $O(n)$
+- Shortest tree is full
+	- Results in these operations being $O(\log n)$
 
-Increase efficiency by making sure tree is as short as possible.
-
-Shortest tree is full
-Results in these operations being O(log n)
-
-
+![[two-binary-search-trees-with-different-searching-effeciencies.png]]
 
 
 ___
