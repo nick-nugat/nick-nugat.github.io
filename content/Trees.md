@@ -144,7 +144,7 @@ Searching a binary search tree is $O(h)$, where $h$ is height.
 ___
 
 ### Traversing
-#### Using a Stack ([[#preorder]] and postorder)
+#### Using a Stack ([[#Preorder]] and [[#Postorder]])
 ![[traversing-binary-tree-using-stack.png]]
 
 #### Using a Queue ([[#Level-order]])
