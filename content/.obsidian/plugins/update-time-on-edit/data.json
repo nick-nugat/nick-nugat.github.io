@@ -15,7 +15,7 @@
   "fileHashMap": {
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
-    "Data structures.md": "b731276fe39edcdb0a81b2354c3afd66e659be7dea09a13e2aa76104a01fd8d7",
+    "Data structures.md": "5a2d2767c80038151b862a5b574042aec61c89ebd44b2f1dd7457999b3188223",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
     "Iterator interface in Java.md": "6283e98a180e715a8c9a2a1e2421d38be19e8d8b3ff5fd0d6480cabcd2f47b45",
     "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
@@ -33,10 +33,11 @@
     "Nodes.md": "0d215b4563faa08d15b82015f1bc73ac468395e420597a1fd0d3115805353491",
     "Stack.md": "a65ff11a428dca6c1d7140c7d859dde350f2a2329e5a3829aa2ea6fc2df074e3",
     "Queue.md": "5a2b6b37fedd806a561de8b7d9739d38ed6e7d4202012973ea7aeddc12eb4b9b",
-    "Abstraction.md": "f4dafb1fc5457722cd74cb5440c79faa7c02d2e188c5b9ce559cca55b054fdc2",
-    "ADT bags.md": "129205959d306fc2383c9e1d3467813c98704747c38aaaff6a1d07468c4ee946",
+    "Abstraction.md": "63db1279d65d3c634908feb70d661362b3f21222a994b88791161909d2079462",
     "project-designs/cmsc204/NguyenNicholas_Assignment3_Design/assignment3-design.md": "541bf8f384dad8dc53fd55e326447ef6273f27cd91b0451b2d28b4cea9957c09",
     "Hashing collisions.md": "db13728e38290fd0d185718c4c056de0a29897dfbb5edab4a9807e9b47f63415",
-    "Trees.md": "8e96a0085e4f126c22417f935b84db1aaec08aa948f5d93619efe6fb35934d27"
+    "Trees.md": "8e96a0085e4f126c22417f935b84db1aaec08aa948f5d93619efe6fb35934d27",
+    "Abstract data types.md": "5c0b88703a3f9871c633c18e0b27d58505f290e4a5fcb4b1b0f7aded48512e66",
+    "Bags.md": "bde5ef7dd014d158a6c1e3ade6fdce3da779ed106f529dcb6cff299eae2a6e05"
   }
 }

@@ -2,14 +2,14 @@
 aliases: 
 date: 2024-01-31
 language: java
-updated: 2024-03-05T23:01
+updated: 2024-03-05T23:20
 title: Data structures
 ---
 # [[Data structures]]
 Data structures are an implementation of an ADT (abstract data type).
 ___
 
-[[ADT bags]]
+[[Bags]]
 [[Abstraction|What is abstraction?]]
 [[Nodes]]
 [[Stack]]
