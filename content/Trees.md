@@ -5,18 +5,29 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T01:14
+updated: 2024-03-06T01:17
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
 
+```java
+/** An example interface of basic methods for the ADT tree.  */
+public interface TreeInterface<T>{
+   public T getRootData();
+   public int getHeight();
+   public int getNumberOfNodes();
+   public boolean isEmpty();
+   public void clear();
+} // end TreeInterface
+```
+
 ## Visual examples
-> [!example]
-> ![[family-tree.png|500]]
-> ![[folder-tree.png]]
-> ![[terminology-in-trees.png]]
-> ![[binary-tree-example.png]]
-> ![[three-binary-trees-in-different-states-of-completion.png]]
+> [!example]-
+> ![[family-tree.png|350]]
+> ![[folder-tree.png|350]]
+> ![[terminology-in-trees.png|350]]
+> ![[binary-tree-example.png|350]]
+> ![[three-binary-trees-in-different-states-of-completion.png|350]]
 
 ## Tree terminology
 - "roots" are at the top and they are the only node with **no parent**.
@@ -33,35 +44,23 @@ Trees are a form of hierarchical way of organization.
 	- visit all nodes on **root's *right* subtree**
 
 ### Types of traversals
-![[binary-tree-traversal-types.png]]
+![[binary-tree-traversal-types.png|350]]
 
 > [!example]- Example of preorder and postorder in a general tree
-> ![[binary-tree-preorder-and-postorder-traversal-examples.png]]
+> ![[binary-tree-preorder-and-postorder-traversal-examples.png|350]]
 #### In-order
 > [!warning] This is not ideal for general tree traversal!
 
-![[binary-tree-in-order-traversal.png]]
+![[binary-tree-in-order-traversal.png|350]]
 
 #### Preorder
-![[binary-tree-preorder-traversal.png]]
+![[binary-tree-preorder-traversal.png|350]]
 
 #### Postorder
-![[binary-tree-postorder-traversal.png]]
+![[binary-tree-postorder-traversal.png|350]]
 
 #### Level-order
-![[binary-tree-level-order-traversal.png]]
-
-## Tree interface
-```java
-/** An interface of basic methods for the ADT tree.  */
-public interface TreeInterface<T>{
-   public T getRootData();
-   public int getHeight();
-   public int getNumberOfNodes();
-   public boolean isEmpty();
-   public void clear();
-} // end TreeInterface
-```
+![[binary-tree-level-order-traversal.png|350]]
 
 ## Binary trees
 Binary trees are trees where **each node** has at most *two children*.
@@ -110,21 +109,16 @@ System.out.println();
 ![[visualization-of-binary-tree-build-example.png]]
 
 
-
-
-
-
-
 ### Types
 #### Expression trees
 Trees can also represent algebraic expressions.
 
-![[expression-trees.png]]
-![[expression-tree-evaluation-algorithm.png]]
+![[expression-trees.png|350]]
+![[expression-tree-evaluation-algorithm.png|350]]
 
 #### Decision trees
 These can be used for things like a guessing game.
-![[decision-trees-for-a-guessing-game.png]]
+![[decision-trees-for-a-guessing-game.png|350]]
 
 #### Search tree
 - each node in a binary search tree:
@@ -140,16 +134,16 @@ These can be used for things like a guessing game.
 - Shortest tree is full
 	- Results in these operations being $O(\log n)$
 
-![[two-binary-search-trees-with-different-searching-effeciencies.png]]
+![[two-binary-search-trees-with-different-searching-effeciencies.png|350]]
 
 
 ___
 
 ### Traversing
 #### Using a Stack ([[#Preorder]] and [[#Postorder]])
-![[traversing-binary-tree-using-stack.png]]
+![[traversing-binary-tree-using-stack.png|350]]
 
 #### Using a Queue ([[#Level-order]])
-![[traversing-binary-tree-with-queue.png]]
+![[traversing-binary-tree-with-queue.png|350]]
 
 # References
