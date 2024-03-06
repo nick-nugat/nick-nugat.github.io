@@ -1,11 +1,10 @@
 ---
 aliases:
   - "202403052301"
-language:
-  - java
+language: java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T01:17
+updated: 2024-03-06T13:55
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
