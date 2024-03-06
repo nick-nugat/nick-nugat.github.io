@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:44
+updated: 2024-03-06T00:47
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -65,7 +65,7 @@ public interface TreeInterface<T>{
 
 ## Binary trees
 Binary trees are trees where **each node** has at most *two children*.
-
+### Example
 ```java
 BinaryTreeInterface<String> dTree = new BinaryTree<>();
 dTree.setTree("D", null, null);
@@ -114,12 +114,17 @@ System.out.println();
 
 
 
-### Expression trees
+
+### Types
+#### Expression trees
 Trees can also represent algebraic expressions.
 
 ![[expression-trees.png]]
 ![[expression-tree-evaluation-algorithm.png]]
 
+#### Decision trees
+These can be used for things like a guessing game.
+![[decision-trees-for-a-guessing-game.png]]
 
 
 
