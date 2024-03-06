@@ -4,7 +4,7 @@ aliases:
 language: java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T13:55
+updated: 2024-03-06T13:57
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -144,5 +144,9 @@ ___
 
 #### Using a Queue ([[#Level-order]])
 ![[traversing-binary-tree-with-queue.png|350]]
+
+
+### Relation to binary search
+
 
 # References
