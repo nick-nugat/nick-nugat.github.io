@@ -4,7 +4,7 @@ aliases:
 language: 
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:09
+updated: 2024-03-06T00:14
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -28,8 +28,17 @@ Trees are a form of hierarchical way of organization.
 - uses **recursion**
 - to visit all nodes
 	- visit root
-	- visit all nodes on **root's left subtree**
-	- visit all nodes on **root's right subtree**
+	- visit all nodes on **root's *left* subtree**
+	- visit all nodes on **root's *right* subtree**
+
+### Types of traversals
+![[binary-tree-traversal-types.png]]
+
+> [!example]-
+> ![[binary-tree-preorder-traversal.png]]
+> ![[binary-tree-in-order-traversal.png]]
+> ![[binary-tree-postorder-traversal.png]]
+> ![[Pasted image 20240306001442.png]]
 
 ___
 ## References
