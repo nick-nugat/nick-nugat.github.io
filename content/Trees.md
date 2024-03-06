@@ -4,7 +4,7 @@ aliases:
 language: 
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:18
+updated: 2024-03-06T00:23
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -34,13 +34,15 @@ Trees are a form of hierarchical way of organization.
 ### Types of traversals
 ![[binary-tree-traversal-types.png]]
 
-#### Preorder
-![[binary-tree-preorder-traversal.png]]
-
+> [!example]- Example of preorder and postorder in a general tree
+> ![[binary-tree-preorder-and-postorder-traversal-examples.png]]
 #### In-order
 > [!warning] This is not ideal for general tree traversal!
 
 ![[binary-tree-in-order-traversal.png]]
+
+#### Preorder
+![[binary-tree-preorder-traversal.png]]
 
 #### Postorder
 ![[binary-tree-postorder-traversal.png]]
@@ -48,5 +50,16 @@ Trees are a form of hierarchical way of organization.
 #### Level-order
 ![[binary-tree-level-order-traversal.png]]
 
+## Tree interface
+```java
+/** An interface of basic methods for the ADT tree.  */
+public interface TreeInterface<T>{
+   public T getRootData();
+   public int getHeight();
+   public int getNumberOfNodes();
+   public boolean isEmpty();
+   public void clear();
+} // end TreeInterface
+```
 ___
 ## References
