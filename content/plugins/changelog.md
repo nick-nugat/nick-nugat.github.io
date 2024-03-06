@@ -1,4 +1,4 @@
-- 2024-03-06 at 00h38 · [[Trees]]
+- 2024-03-06 at 00h44 · [[Trees]]
 - 2024-03-05 at 23h21 · [[Bags]]
 - 2024-03-05 at 23h20 · [[Abstract data types]]
 - 2024-03-05 at 23h20 · [[Data structures]]
