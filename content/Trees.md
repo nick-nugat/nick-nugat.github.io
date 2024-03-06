@@ -4,7 +4,7 @@ aliases:
 language: 
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:23
+updated: 2024-03-06T00:29
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -61,5 +61,10 @@ public interface TreeInterface<T>{
    public void clear();
 } // end TreeInterface
 ```
+
+## Building a binary tree
+#### Example
+
+
 ___
 ## References
