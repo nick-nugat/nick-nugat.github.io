@@ -1,6 +1,7 @@
+- 2024-03-05 at 23h04 · [[Trees]]
+- 2024-03-05 at 23h01 · [[Data structures]]
 - 2024-03-03 at 17h27 · [[Hashing collisions]]
 - 2024-03-03 at 16h52 · [[Hashing]]
-- 2024-02-26 at 14h22 · [[Data structures]]
 - 2024-02-26 at 14h12 · [[ADT bags]]
 - 2024-02-26 at 14h11 · [[Abstraction]]
 - 2024-02-26 at 14h10 · [[Queue]]
