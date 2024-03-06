@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:54
+updated: 2024-03-06T00:59
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -135,10 +135,19 @@ These can be used for things like a guessing game.
 ![[two-different-binary-search-trees.png]]
 
 ##### Efficiency of search
-Searching a binary search tree is $O(h)$, where 
+Searching a binary search tree is $O(h)$, where $h$ is height.
+- Increase efficiency by making sure tree is as short as possible.
 
 
 
 
 ___
+
+### Traversing
+#### Using a Stack ([[#preorder]] and postorder)
+![[traversing-binary-tree-using-stack.png]]
+
+#### Using a Queue ([[#Level-order]])
+![[traversing-binary-tree-with-queue.png]]
+
 # References
