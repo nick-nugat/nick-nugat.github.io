@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:59
+updated: 2024-03-06T01:09
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -136,7 +136,14 @@ These can be used for things like a guessing game.
 
 ##### Efficiency of search
 Searching a binary search tree is $O(h)$, where $h$ is height.
-- Increase efficiency by making sure tree is as short as possible.
+- The operations add, remove, and getEntry are O(h)
+
+If tree of $n$ nodes has height $h = n$, these operations are $O(n)$
+
+Increase efficiency by making sure tree is as short as possible.
+
+Shortest tree is full
+Results in these operations being O(log n)
 
 
 
