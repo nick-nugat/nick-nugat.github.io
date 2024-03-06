@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T00:47
+updated: 2024-03-06T00:54
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -126,6 +126,19 @@ Trees can also represent algebraic expressions.
 These can be used for things like a guessing game.
 ![[decision-trees-for-a-guessing-game.png]]
 
+#### Search tree
+- each node in a binary search tree:
+	- node's data is **greater than** all data in node's left subtree
+	- node's data is **less than** all data in node's right subtree
+- every node is **the root** of a binary search tree
+
+![[two-different-binary-search-trees.png]]
+
+##### Efficiency of search
+Searching a binary search tree is $O(h)$, where 
 
 
-## References
+
+
+___
+# References
