@@ -4,8 +4,12 @@ aliases:
   - Abstract data type - bag
   - What are bags?
 ---
-## ADT bags
-
+# [[Bags]]
 
 - finite collection of items in no order
 - can have duplicates
+
+
+## Related
+[[Abstract data types]]
+[[Abstraction]]
