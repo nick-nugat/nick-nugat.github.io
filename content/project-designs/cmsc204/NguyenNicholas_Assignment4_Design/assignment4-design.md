@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-14T13:01
+updated: 2024-03-14T13:04
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -19,8 +19,10 @@ title: Course Database
 classDiagram
 
 direction BT
-class Comparable
-class CourseDBElement implements Comparable { 
+
+Comparable <|-- CourseDBElement: implements
+
+class CourseDBElement { 
     
     - courseID: String;  
     - crn: int;  
