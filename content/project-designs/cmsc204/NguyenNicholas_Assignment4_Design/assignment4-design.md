@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T16:24
+updated: 2024-03-15T19:16
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -35,6 +35,9 @@ classDiagram
 	}
 	
 	 class CourseDBManager{
+		 - structure: CourseDBStructure
+		 
+		 + CourseDBManager()
 		 + add(id: String, crn: int, credits: int, roomNum: String, instructor: String) void
 		 + get(crn: int) CourseDBElement
 		 + readFile(input: File) void
