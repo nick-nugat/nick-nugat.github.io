@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T19:53
+updated: 2024-03-15T19:58
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -26,7 +26,7 @@ classDiagram
 	
 	class CourseDBElement { 
 	    - courseID: String;  
-	    - crn: int;  
+	    - CRN: int;  
 	    - credits: int;  
 	    - roomNumber: String;  
 	    - instructorName: String;  
@@ -38,22 +38,26 @@ classDiagram
 		 - structure: CourseDBStructure
 		 
 		 + CourseDBManager()
-		 + add(id: String, crn: int, credits: int, roomNum: String, instructor: String) void
-		 + get(crn: int) CourseDBElement
+		 + add(id: String, CRN: int, credits: int, roomNum: String, instructor: String) void
+		 + get(CRN: int) CourseDBElement
 		 + readFile(input: File) void
 		 + showAll() ArrayList<String>
 	 }
 	
 	 class CourseDBStructure{
-		 - LOAD_FACTOR: double$
+		 - LOAD_FACTOR: double
 		 - hashTable: LinkedList<CourseDBElement>[]
 		 - tableLength: int
+		 - COURSE_AS_STRING: String$
 		   
 		 + CourseDBStructure(n: int)
 		 + CourseDBStructure(testing: String, hashTableSize: int)
-		   
 		 + add(element: CourseDBElement) void
-		 + get(crn: int)
+		 + get(CRN: int) CourseDBElement
+		 + showAll() ArrayList<String>
+		 + getTableSize() int
+		 - isPrime(n: int) boolean$
+		 - getNextPrime(n: int) int$
 	 }
 
 
