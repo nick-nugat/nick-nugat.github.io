@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-14T13:12
+updated: 2024-03-15T16:15
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -32,8 +32,14 @@ class CourseDBElement {
   
     + compareTo() int
 }
- class CourseDBManagerInterface{
-	 add(String id, int crn, int credits, String roomNum, String instructor)
+
+ class CourseDBManager{
+	 + add(id: String, crn: int, credits: int, roomNum: String, instructor: String) void
+	 + get(crn: int) CourseDBElement
+	 + <<exception>> readFile(input: File)
+	 
+	
+	 
  }
 
 
