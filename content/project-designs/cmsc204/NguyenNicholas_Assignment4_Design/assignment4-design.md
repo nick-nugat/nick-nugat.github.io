@@ -4,9 +4,9 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:33
+updated: 2024-03-15T20:38
 ---
-# [[assignment4-design]]
+# Initial Assignment 4 Design
 > Nicholas Nguyen
 ___
 ## UML diagram
@@ -34,7 +34,7 @@ classDiagram
 	
 	class CourseDBStructure{
 		 - LOAD_FACTOR: double
-		 - hashTable: LinkedList<CourseDBElement>[]
+		 - hashTable: LinkedList~CourseDBElement~[]
 		 - tableLength: int
 		 - COURSE_AS_STRING: String
 		   
@@ -42,7 +42,7 @@ classDiagram
 		 + CourseDBStructure(testing: String, hashTableSize: int)
 		 + add(element: CourseDBElement) void
 		 + get(CRN: int) CourseDBElement
-		 + showAll() ArrayList<String>
+		 + showAll() ArrayList~String~
 		 + getTableSize() int
 	 }
 
@@ -53,7 +53,7 @@ classDiagram
 		 + add(ID: String, CRN: int, credits: int, roomNum: String, instructor: String) void
 		 + get(CRN: int) CourseDBElement
 		 + readFile(input: File) void
-		 + showAll() ArrayList<String>
+		 + showAll() ArrayList~String~
 	 }
 ```
 
