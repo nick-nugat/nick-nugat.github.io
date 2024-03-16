@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:23
+updated: 2024-03-15T20:27
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -32,7 +32,7 @@ classDiagram
 	    + compareTo(o: Object) int
 	}
 	
-	 class CourseDBStructure{
+	class CourseDBStructure{
 		 - LOAD_FACTOR: double
 		 - hashTable: LinkedList<CourseDBElement>[]
 		 - tableLength: int
@@ -46,7 +46,7 @@ classDiagram
 		 + getTableSize() int
 	 }
 
-	 class CourseDBManager{
+	class CourseDBManager{
 		 - structure: CourseDBStructure
 		 
 		 + CourseDBManager()
@@ -63,3 +63,5 @@ classDiagram
 - `CourseDBStructure`
 	- represents a hash table with buckets
 	- each hash code is based on the crn since unique to every course
+- `CourseDBManager`
+	- data manager class that allows users to read courses from a text file
