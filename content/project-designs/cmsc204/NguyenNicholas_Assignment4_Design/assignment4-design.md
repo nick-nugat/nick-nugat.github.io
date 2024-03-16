@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:12
+updated: 2024-03-15T20:18
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -58,8 +58,9 @@ classDiagram
 		 - isPrime(n: int) boolean$ 
 		 - getNextPrime(n: int) int$
 	 }
-
-
 ```
 
 ## Pseudocode
+- `CourseDBElement`
+	- blueprint for a course with attributes for the course id, crn number, room number, and instructor name
+- `CourseDB`
