@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:56
+updated: 2024-03-16T17:56
 ---
 # Initial Assignment 4 Design
 > Nicholas Nguyen
@@ -62,9 +62,11 @@ classDiagram
 ## Pseudocode
 - `CourseDBElement`
 	- blueprint for a course with attributes for the course id, crn number, room number, and instructor name
+	- getters and setters for each attribute
 - `CourseDBStructure`
 	- represents a hash table with buckets
 	- each hash code is based on the crn since unique to every course
 - `CourseDBManager`
 	- data manager class that allows users to read courses from a text file
 	- can be used to enter data manually
+	- heavily uses `CourseDBStructure`
