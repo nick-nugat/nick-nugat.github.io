@@ -3,12 +3,15 @@ aliases: "202403121810"
 type: design
 language: java
 date: 2024-03-12
-created: 2024-03-12T18:10
-updated: 2024-03-16T17:56
+created: 2024-03-16T17:59
+updated: 2024-03-16T18:01
 ---
-# Initial Assignment 4 Design
+# Final Assignment 4 Design
 > Nicholas Nguyen
 ___
+## GitHub screenshot
+![[assignment4-github-screenshot.png]]
+
 ## UML diagram
 ```mermaid
 ---
@@ -69,4 +72,3 @@ classDiagram
 - `CourseDBManager`
 	- data manager class that allows users to read courses from a text file
 	- can be used to enter data manually
-	- heavily uses `CourseDBStructure`
