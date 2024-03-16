@@ -4,13 +4,18 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-16T17:59
-updated: 2024-03-16T18:01
+updated: 2024-03-16T18:07
 ---
 # Final Assignment 4 Design
-> Nicholas Nguyen
+
+- Nicholas Nguyen
+- [CMSC204 GitHub Repository](https://github.com/nick-nugat/CMSC204)
+
 ___
 ## GitHub screenshot
 ![[assignment4-github-screenshot.png]]
+
+## Learning experience
 
 ## UML diagram
 ```mermaid
@@ -71,4 +76,5 @@ classDiagram
 	- each hash code is based on the crn since unique to every course
 - `CourseDBManager`
 	- data manager class that allows users to read courses from a text file
+	- uses `CourseDBStructure` 
 	- can be used to enter data manually

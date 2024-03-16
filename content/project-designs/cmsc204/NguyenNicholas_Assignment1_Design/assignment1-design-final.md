@@ -1,12 +1,12 @@
 ---
-updated: 2024-02-23T23:37
+updated: 2024-03-16T18:02
 ---
 # Final Assignment 1 Design
 > Nicholas Nguyen
 > [CMSC204 Public GitHub Repository](https://github.com/nick-nugat/CMSC204)
 ___
 ## GitHub screenshot
-![[project-designs/assets/project-1-github-screenshot.png]]
+![[assignment1-github-screenshot.png]]
 ___
 ## Learning experience
 > *I'm not sure what we need to do for this section ~~(though I did notice on the rubric that we should write 3+ paragraphs)~~, but these are the questions I had to answer from my previous courses.*
