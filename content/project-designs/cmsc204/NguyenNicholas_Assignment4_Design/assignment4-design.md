@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:18
+updated: 2024-03-15T20:23
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -18,8 +18,8 @@ classDiagram
 	direction BT
 
 	Comparable <|-- CourseDBElement: implements
-	CourseDBManagerInterface <|-- CourseDBManager: implements
 	CourseDBStructureInterface <|-- CourseDBStructure: implements
+	CourseDBManagerInterface <|-- CourseDBManager: implements
 	
 	
 	class CourseDBElement { 
@@ -31,16 +31,6 @@ classDiagram
 		  
 	    + compareTo(o: Object) int
 	}
-	
-	 class CourseDBManager{
-		 - structure: CourseDBStructure
-		 
-		 + CourseDBManager()
-		 + add(ID: String, CRN: int, credits: int, roomNum: String, instructor: String) void
-		 + get(CRN: int) CourseDBElement
-		 + readFile(input: File) void
-		 + showAll() ArrayList<String>
-	 }
 	
 	 class CourseDBStructure{
 		 - LOAD_FACTOR: double
@@ -54,13 +44,22 @@ classDiagram
 		 + get(CRN: int) CourseDBElement
 		 + showAll() ArrayList<String>
 		 + getTableSize() int
-		 %%helper methods%%
-		 - isPrime(n: int) boolean$ 
-		 - getNextPrime(n: int) int$
+	 }
+
+	 class CourseDBManager{
+		 - structure: CourseDBStructure
+		 
+		 + CourseDBManager()
+		 + add(ID: String, CRN: int, credits: int, roomNum: String, instructor: String) void
+		 + get(CRN: int) CourseDBElement
+		 + readFile(input: File) void
+		 + showAll() ArrayList<String>
 	 }
 ```
 
 ## Pseudocode
 - `CourseDBElement`
 	- blueprint for a course with attributes for the course id, crn number, room number, and instructor name
-- `CourseDB`
+- `CourseDBStructure`
+	- represents a hash table with buckets
+	- each hash code is based on the crn since unique to every course
