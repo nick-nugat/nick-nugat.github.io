@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:38
+updated: 2024-03-15T20:56
 ---
 # Initial Assignment 4 Design
 > Nicholas Nguyen
@@ -20,8 +20,8 @@ classDiagram
 	Comparable <|-- CourseDBElement: implements
 	CourseDBStructureInterface <|-- CourseDBStructure: implements
 	CourseDBManagerInterface <|-- CourseDBManager: implements
-	
-	
+
+	class Comparable{ <<interface>> }
 	class CourseDBElement { 
 	    - ID: String
 	    - CRN: int
@@ -32,6 +32,7 @@ classDiagram
 	    + compareTo(o: Object) int
 	}
 	
+	class CourseDBStructureInterface{ <<interface>> }
 	class CourseDBStructure{
 		 - LOAD_FACTOR: double
 		 - hashTable: LinkedList~CourseDBElement~[]
@@ -46,6 +47,7 @@ classDiagram
 		 + getTableSize() int
 	 }
 
+	class CourseDBManagerInterface{ <<interface>> }
 	class CourseDBManager{
 		 - structure: CourseDBStructure
 		 
