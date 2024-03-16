@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:27
+updated: 2024-03-15T20:33
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -23,11 +23,11 @@ classDiagram
 	
 	
 	class CourseDBElement { 
-	    - ID: String;  
-	    - CRN: int;  
-	    - credits: int;  
-	    - roomNum: String;  
-	    - instructorName: String;  
+	    - ID: String
+	    - CRN: int
+	    - credits: int
+	    - roomNum: String
+	    - instructorName: String
 		  
 	    + compareTo(o: Object) int
 	}
@@ -65,3 +65,4 @@ classDiagram
 	- each hash code is based on the crn since unique to every course
 - `CourseDBManager`
 	- data manager class that allows users to read courses from a text file
+	- can be used to enter data manually
