@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:00
+updated: 2024-03-15T20:04
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -25,12 +25,12 @@ classDiagram
 	
 	
 	class CourseDBElement { 
-	    - courseID: String;  
+	    - ID: String;  
 	    - CRN: int;  
 	    - credits: int;  
-	    - roomNumber: String;  
+	    - roomNum: String;  
 	    - instructorName: String;  
-	  
+		  
 	    + compareTo() int
 	}
 	
@@ -38,7 +38,7 @@ classDiagram
 		 - structure: CourseDBStructure
 		 
 		 + CourseDBManager()
-		 + add(id: String, CRN: int, credits: int, roomNum: String, instructor: String) void
+		 + add(ID: String, CRN: int, credits: int, roomNum: String, instructor: String) void
 		 + get(CRN: int) CourseDBElement
 		 + readFile(input: File) void
 		 + showAll() ArrayList<String>
