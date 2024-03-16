@@ -4,13 +4,11 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T20:04
+updated: 2024-03-15T20:12
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
 ___
-
-
 ## UML diagram
 ```mermaid
 ---
@@ -31,7 +29,7 @@ classDiagram
 	    - roomNum: String;  
 	    - instructorName: String;  
 		  
-	    + compareTo() int
+	    + compareTo(o: Object) int
 	}
 	
 	 class CourseDBManager{
