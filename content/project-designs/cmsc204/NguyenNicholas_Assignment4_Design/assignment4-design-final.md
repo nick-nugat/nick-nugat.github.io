@@ -76,5 +76,6 @@ classDiagram
 	- each hash code is based on the crn since unique to every course
 - `CourseDBManager`
 	- data manager class that allows users to read courses from a text file
-	- uses `CourseDBStructure` 
+	- uses `CourseDBStructure` quite a bit
+		- calls some of its methods
 	- can be used to enter data manually
