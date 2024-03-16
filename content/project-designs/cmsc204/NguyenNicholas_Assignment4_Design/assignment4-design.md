@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-15T19:58
+updated: 2024-03-15T20:00
 ---
 # [[assignment4-design]]
 > Nicholas Nguyen
@@ -48,7 +48,7 @@ classDiagram
 		 - LOAD_FACTOR: double
 		 - hashTable: LinkedList<CourseDBElement>[]
 		 - tableLength: int
-		 - COURSE_AS_STRING: String$
+		 - COURSE_AS_STRING: String
 		   
 		 + CourseDBStructure(n: int)
 		 + CourseDBStructure(testing: String, hashTableSize: int)
@@ -56,7 +56,8 @@ classDiagram
 		 + get(CRN: int) CourseDBElement
 		 + showAll() ArrayList<String>
 		 + getTableSize() int
-		 - isPrime(n: int) boolean$
+		 %%helper methods%%
+		 - isPrime(n: int) boolean$ 
 		 - getNextPrime(n: int) int$
 	 }
 
