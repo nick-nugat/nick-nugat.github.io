@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-12T18:10
-updated: 2024-03-16T18:08
+updated: 2024-03-16T21:36
 ---
 # Initial Assignment 4 Design
 - Nicholas Nguyen
@@ -38,7 +38,7 @@ classDiagram
 		 - LOAD_FACTOR: double
 		 - hashTable: LinkedList~CourseDBElement~[]
 		 - tableLength: int
-		 - COURSE_AS_STRING: String
+		 + COURSE_AS_STRING: String
 		   
 		 + CourseDBStructure(n: int)
 		 + CourseDBStructure(testing: String, hashTableSize: int)
