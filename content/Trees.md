@@ -4,7 +4,7 @@ aliases:
 language: java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-06T14:04
+updated: 2024-03-18T13:19
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -32,6 +32,7 @@ public interface TreeInterface<T>{
 - "roots" are at the top and they are the only node with **no parent**.
 - trees can be empty
 - height = num of levels
+- leaf nodes - nodes without child nodes
 
 ## Traversing a tree
 - each item is visited **exactly once**
@@ -148,5 +149,3 @@ ___
 
 ### Relation to binary search
 If you print out a binary search tree using an [[#In-order]] traversal, the values will be **sorted**. 
-
-# References
