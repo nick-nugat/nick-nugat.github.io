@@ -15,7 +15,7 @@
   "fileHashMap": {
     "plugins/changelog.md": "dfed39ac18fbc61a31f2d08c3d6f7eb183040d58d46830d3aa5e955a48fc8bc4",
     "Debugging in intellij.md": "2b85bdd1e211f5a5cab587e5f8b9300c59b4082db59d2d3e0598608c48cfc610",
-    "Data structures.md": "a7c0f4cd629948d2088b9820506ba6464457b7f8e78deb657d3f373e71edb5b6",
+    "Data structures.md": "fbc2a5970b1542ebf04e01c815699f2b0205913f2b63b2d1538b0e1a23db63ff",
     "daily/2024-02-12.md": "4479041485f0980abc33b941efe2cd7efe40fea33656a511e3d4d52d388a4714",
     "Iterator interface in Java.md": "6283e98a180e715a8c9a2a1e2421d38be19e8d8b3ff5fd0d6480cabcd2f47b45",
     "Basic operations and functions in CPP.md": "dcc79766326c519d335ceb4601bc20f3646dd0f2ebdfe45a648d9b6a232262c9",
@@ -40,6 +40,7 @@
     "Abstract data types.md": "ae853f45bd6474764aa7d98e0fb8f94942fd7dc136ecbd492c2640d33c713a43",
     "Bags.md": "db566ed55f7eb88ffd0f9c6e379bd332bca65a153aa094ba0bb74dcd0d1bd2d0",
     "project-designs/cmsc204/NguyenNicholas_Assignment4_Design/assignment4-design-initial.md": "5b362590870e589d0c86c050e672709e497923d0964c4cbafccce581591b4fa0",
-    "project-designs/cmsc204/NguyenNicholas_Assignment4_Design/assignment4-design-final.md": "78b317093a4f4006ff55cac7a4509a7f1ab03d46218ee2138c00099294244fd2"
+    "project-designs/cmsc204/NguyenNicholas_Assignment4_Design/assignment4-design-final.md": "78b317093a4f4006ff55cac7a4509a7f1ab03d46218ee2138c00099294244fd2",
+    "Sets.md": "b50ee2bff91595452a9073e08be5d8514a462418d8c62580195278242d25a9ce"
   }
 }
