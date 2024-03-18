@@ -1,11 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox",
-  "textFontFamily": "Inter",
+  "cssTheme": "Atom",
+  "textFontFamily": "JetBrains Mono",
   "baseFontSize": 16,
-  "monospaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "bigger-latex-font-size",
     "image_zoom"
