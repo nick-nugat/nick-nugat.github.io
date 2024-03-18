@@ -4,7 +4,7 @@ aliases:
 language: java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-18T13:19
+updated: 2024-03-18T15:51
 ---
 # [[Trees]]
 Trees are a form of hierarchical way of organization.
@@ -54,6 +54,10 @@ public interface TreeInterface<T>{
 ![[binary-tree-in-order-traversal.png|350]]
 
 #### Preorder
+1. root first
+2. for each node (but make sure to go back up if the left subtree):
+	1. left subtree
+	2. right subtree
 ![[binary-tree-preorder-traversal.png|350]]
 
 #### Postorder
