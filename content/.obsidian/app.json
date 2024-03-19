@@ -7,8 +7,8 @@
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": true,
-    "margin": "1",
-    "downscalePercent": 60
+    "margin": "0",
+    "downscalePercent": 65
   },
   "attachmentFolderPath": "assets"
 }

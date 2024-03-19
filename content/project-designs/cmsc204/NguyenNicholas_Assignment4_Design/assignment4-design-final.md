@@ -30,7 +30,7 @@ I wouldn't really do anything differently next project; I feel like I did pretty
 title: Course Database
 ---
 classDiagram
-	direction LR
+	direction RL
 
 	Comparable <|-- CourseDBElement: implements
 	CourseDBStructureInterface <|-- CourseDBStructure: implements
