@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-16T17:59
-updated: 2024-03-19T11:41
+updated: 2024-03-19T11:45
 ---
 # Final Assignment 4 Design
 
@@ -30,7 +30,7 @@ I wouldn't really do anything differently next project; I feel like I did pretty
 title: Course Database
 ---
 classDiagram
-	direction BT
+	direction LR
 
 	Comparable <|-- CourseDBElement: implements
 	CourseDBStructureInterface <|-- CourseDBStructure: implements
