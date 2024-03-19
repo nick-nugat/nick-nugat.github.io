@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-16T17:59
-updated: 2024-03-19T11:23
+updated: 2024-03-19T11:24
 ---
 # Final Assignment 4 Design
 
@@ -18,7 +18,9 @@ ___
 ## Learning experience
 I enjoyed working on this project. I learned a good bit about concepts to use when implementing a database and especially about hashing and more about how it works.
 
-I struggled with getting some tests to pass, as well as knowing what fields/
+I struggled with getting some tests to pass, as well as knowing what fields, methods, and constructors to have. Since there was no JavaDoc provided to follow like usual, I was a little thrown off, but I eventually got through it and found it to be nicer to learn by reading through the interfaces and figuring out how I may implement the methods listed in them.
+
+
 
 
 
