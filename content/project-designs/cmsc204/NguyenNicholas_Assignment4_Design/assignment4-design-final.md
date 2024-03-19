@@ -4,7 +4,7 @@ type: design
 language: java
 date: 2024-03-12
 created: 2024-03-16T17:59
-updated: 2024-03-18T20:19
+updated: 2024-03-19T11:23
 ---
 # Final Assignment 4 Design
 
@@ -16,6 +16,10 @@ ___
 ![[assignment4-github-screenshot.png]]
 
 ## Learning experience
+I enjoyed working on this project. I learned a good bit about concepts to use when implementing a database and especially about hashing and more about how it works.
+
+I struggled with getting some tests to pass, as well as knowing what fields/
+
 
 
 ## UML diagram
