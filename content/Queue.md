@@ -1,5 +1,5 @@
 ---
-updated: 2024-02-26T14:10
+updated: 2024-03-20T14:34
 ---
 ## Queue
 > FIFO (first in, first out)

@@ -5,7 +5,7 @@ date: 2024-02-21
 language:
   - java
 created: 2024-02-21T13:23
-updated: 2024-02-22T00:15
+updated: 2024-03-20T14:34
 ---
 # [[Iterator interface in Java]]
 

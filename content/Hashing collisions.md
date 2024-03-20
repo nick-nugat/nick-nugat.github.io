@@ -1,5 +1,5 @@
 ---
-updated: 2024-03-03T17:27
+updated: 2024-03-20T14:34
 ---
 # Collisions
 Collisions happens when a hash function maps a search key into a location the hash table is already using.

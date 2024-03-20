@@ -3,7 +3,7 @@ aliases: "202402220004"
 language: 
 date: 2024-02-22
 created: 2024-02-22T00:04
-updated: 2024-03-20T13:13
+updated: 2024-03-20T14:34
 ---
 # [[VM arguments for JavaFX]]
 ```

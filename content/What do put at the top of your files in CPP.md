@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-02-17
 language: 
-updated: 2024-02-21T11:37
+updated: 2024-03-20T14:34
 title: What do put at the top of your files in CPP
 ---
 # What do you put at the top of your files?

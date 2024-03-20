@@ -4,7 +4,7 @@ aliases:
 language:
   - java
 created: 2023-10-09T11:17
-updated: 2024-02-22T00:45
+updated: 2024-03-20T14:34
 title: Java notes
 ---
 # Java

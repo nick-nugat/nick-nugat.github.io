@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-01-29
 language: java
-updated: 2024-02-21T11:37
+updated: 2024-03-20T14:34
 title: Generics in Java
 ---
 # [[Generics in Java]]
