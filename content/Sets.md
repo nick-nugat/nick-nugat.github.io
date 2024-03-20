@@ -3,7 +3,7 @@ aliases: "202403181407"
 language: 
 date: 2024-03-18
 created: 2024-03-18T14:07
-updated: 2024-03-20T13:47
+updated: 2024-03-20T13:50
 ---
 # [[Sets]]
 - unordered list of items
@@ -18,6 +18,9 @@ updated: 2024-03-20T13:47
 - difference
 
 ## Implementing
+### Explicit
+
+### Implicit
 
 
 
