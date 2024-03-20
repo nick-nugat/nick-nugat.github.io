@@ -1,3 +1,4 @@
+- 2024-03-20 at 13h13 · [[VM arguments for JavaFX]]
 - 2024-03-18 at 15h55 · [[Trees]]
 - 2024-03-18 at 14h08 · [[Sets]]
 - 2024-03-18 at 14h08 · [[Data structures]]
@@ -14,7 +15,6 @@
 - 2024-02-22 at 00h43 · [[CPP notes]]
 - 2024-02-22 at 00h42 · [[Programming]]
 - 2024-02-22 at 00h15 · [[Iterator interface in Java]]
-- 2024-02-22 at 00h05 · [[VM arguments for JavaFX]]
 - 2024-02-21 at 14h25 · [[Big O notation]]
 - 2024-02-21 at 14h25 · [[Basic operations and functions in CPP]]
 - 2024-02-21 at 11h37 · [[Debugging in intellij]]
