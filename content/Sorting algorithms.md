@@ -3,7 +3,7 @@ aliases: "202403251315"
 tags: 
 date: 2024-03-25
 created: 2024-03-25T13:15
-updated: 2024-03-25T14:07
+updated: 2024-03-25T14:19
 ---
 # [[Sorting algorithms]]
 Different ways to sort data structures.
@@ -12,7 +12,7 @@ Different ways to sort data structures.
 - [[Bubble sort]]
 - [[Insertion sort]]
 - [[Merge sort]]
-- [[Quick sort]]
+- [[Quick sort]] (typically fastest)
 - [[Heap sort]]
 
 
