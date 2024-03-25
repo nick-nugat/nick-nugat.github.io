@@ -1,5 +1,6 @@
 ---
-title: "Building your Quartz"
+title: Building your Quartz
+updated: 2024-03-25T10:53
 ---
 
 Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:

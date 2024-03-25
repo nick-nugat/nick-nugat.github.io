@@ -1,5 +1,6 @@
 ---
-title: "Migrating from Quartz 3"
+title: Migrating from Quartz 3
+updated: 2024-03-25T10:53
 ---
 
 As you already have Quartz locally, you don't need to fork or clone it again. Simply just checkout the alpha branch, install the dependencies, and import your old vault.

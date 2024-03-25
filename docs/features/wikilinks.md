@@ -1,5 +1,6 @@
 ---
 title: Wikilinks
+updated: 2024-03-25T10:53
 ---
 
 Wikilinks were pioneered by earlier internet wikis to make it easier to write links across pages without needing to write Markdown or HTML links each time.

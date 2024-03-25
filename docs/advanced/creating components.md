@@ -1,5 +1,6 @@
 ---
 title: Creating your own Quartz components
+updated: 2024-03-25T10:53
 ---
 
 > [!warning]

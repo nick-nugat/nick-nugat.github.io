@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-02-17
 language: 
-updated: 2024-03-20T14:34
+updated: 2024-03-25T10:53
 title: Basic operations and functions in CPP
 ---
 ## `cin` - practically equivalent of Java Scanner

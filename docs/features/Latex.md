@@ -1,6 +1,7 @@
 ---
 tags:
   - plugin/transformer
+updated: 2024-03-25T10:53
 ---
 
 Quartz uses [Katex](https://katex.org/) by default to typeset both inline and block math expressions at build time.

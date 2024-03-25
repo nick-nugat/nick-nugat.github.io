@@ -1,5 +1,6 @@
 ---
 title: Hosting
+updated: 2024-03-25T10:53
 ---
 
 Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!).

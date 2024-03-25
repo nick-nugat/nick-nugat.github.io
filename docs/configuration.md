@@ -1,5 +1,6 @@
 ---
 title: Configuration
+updated: 2024-03-25T10:53
 ---
 
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.ts` or changing [[layout|the layout]] in `quartz.layout.ts`.

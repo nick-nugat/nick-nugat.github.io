@@ -1,5 +1,6 @@
 ---
 title: Paths in Quartz
+updated: 2024-03-25T10:53
 ---
 
 Paths are pretty complex to reason about because, especially for a static site generator, they can come from so many places.

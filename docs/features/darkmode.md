@@ -1,7 +1,8 @@
 ---
-title: "Darkmode"
+title: Darkmode
 tags:
   - component
+updated: 2024-03-25T10:53
 ---
 
 Quartz supports darkmode out of the box that respects the user's theme preference. Any future manual toggles of the darkmode switch will be saved in the browser's local storage so it can be persisted across future page loads.
