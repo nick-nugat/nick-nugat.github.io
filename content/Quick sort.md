@@ -1,9 +1,11 @@
 ---
-aliases: "202403251401"
+aliases:
+  - "202403251401"
+  - Quicksort
 tags: 
 date: 2024-03-25
 created: 2024-03-25T14:01
-updated: 2024-03-25T14:01
+updated: 2024-03-25T14:06
 ---
 # [[Quick sort]]
 
@@ -65,3 +67,7 @@ private static void swap(int[] arr, int a, int b){
 	arr[b] = temp;
 }
 ```
+
+___
+# References
+https://www.geeksforgeeks.org/quick-sort/

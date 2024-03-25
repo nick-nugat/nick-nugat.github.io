@@ -3,7 +3,7 @@ aliases: "202403251322"
 tags: 
 date: 2024-03-25
 created: 2024-03-25T13:22
-updated: 2024-03-25T13:47
+updated: 2024-03-25T14:03
 ---
 # [[Bubble sort]]
 - Value pairs are sorted continuously; array continues to loop **in its entirety** until all pairs are sorted.
