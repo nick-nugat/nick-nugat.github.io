@@ -6,15 +6,11 @@ language:
   - java
   - cpp
 title: Big O notation
-updated: 2024-03-25T10:53
+updated: 2024-03-25T13:16
 ---
 # [[Big O notation]]
 ## Notes
-> [!NOTE]- sorting algorithm speeds:
-> - bubble sort $\dfrac{(n^2 - n)}{2}$
-> - insertion sort: $\dfrac{n^2}{2}$
-> - selection sort: $\dfrac{(n^2 - -n)}{2}$
-> - merge sort: $nlogn$
+
 
 > [!example]
 > simple for loop: would be $O(n)$, where $n = number\ of\ characters\ in\ string$ 
