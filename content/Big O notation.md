@@ -6,19 +6,17 @@ language:
   - java
   - cpp
 title: Big O notation
-updated: 2024-03-25T13:16
+updated: 2024-03-25T13:46
 ---
 # [[Big O notation]]
-## Notes
-
-
-> [!example]
-> simple for loop: would be $O(n)$, where $n = number\ of\ characters\ in\ string$ 
-
 - compares diff algorithms
 	- how ugly they get as `n` gets bigger (`n` = amount of data)
 - machine independent
 - ignores smaller operations
+
+> [!example]
+> simple for loop: would be $O(n)$, where $n = number\ of\ characters\ in\ string$ 
+
 
 > [!example] From slowest -> fastest:
 > *reference graph here: [[big-o-notation-graph-examples.png]]*
@@ -36,10 +34,8 @@ updated: 2024-03-25T13:16
 %%thanks Frostbiiten (Edem) lmao%%
 
 
-
-
-
-## References
+___
+# References
 - https://usaco.guide/bronze/time-comp?lang=java
 - https://www.youtube.com/watch?v=XMUe3zFhM5c
 - [[typical-big-o-notation-speeds-for-diff-n-values.png]]
