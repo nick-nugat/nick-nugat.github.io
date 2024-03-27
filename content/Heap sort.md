@@ -3,7 +3,7 @@ aliases: "202403251313"
 tags: 
 date: 2024-03-25
 created: 2024-03-25T13:13
-updated: 2024-03-27T13:06
+updated: 2024-03-27T13:22
 ---
 # [[Heap sort]]
 
@@ -19,4 +19,5 @@ updated: 2024-03-27T13:06
 
 ___
 # References
-[Heap Sort - Data Structures and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/heap-sort/)
+- [Heap Sort - Data Structures and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/heap-sort/)
+- [BinaryTreeVisualiser - Binary Heap (melezinek.cz)](http://btv.melezinek.cz/binary-heap.html)
