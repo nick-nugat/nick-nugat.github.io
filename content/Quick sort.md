@@ -5,7 +5,7 @@ aliases:
 tags: 
 date: 2024-03-25
 created: 2024-03-25T14:01
-updated: 2024-03-25T14:06
+updated: 2024-04-03T17:49
 ---
 # [[Quick sort]]
 
@@ -27,7 +27,8 @@ private static void quickSort(int[] arr, int lowIndex, int highIndex){
 	//swapping value at pivotIndex with value at highIndex
 	swap(arr, pivotIndex, highIndex);
 
-	int leftPointer = partition(arr, lowIndex, highIndex, pivot); //partitions array
+	//partitions array
+	int leftPointer = partition(arr, lowIndex, highIndex, pivot);
 
 	//recursive - sorts left sub-array
 	quickSort(arr, lowIndex, leftPointer - 1);

@@ -1,12 +1,14 @@
 ---
-aliases: "202403251324"
-tags: 
+aliases:
+  - "202403251324"
+language:
+  - java
 date: 2024-03-25
 created: 2024-03-25T13:24
-updated: 2024-03-25T13:43
+updated: 2024-04-03T18:03
 ---
 # [[Insertion sort]]
-- Checks pair of values -> **is value greater than previous value greater?** -> swap values.
+- Checks pair of values -> **is current value greater than previous value?** -> swap values.
 - Restarts iteration.
 - Iterates again.
 - This continues until all values are sorted.

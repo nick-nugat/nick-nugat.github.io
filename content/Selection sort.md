@@ -1,0 +1,53 @@
+---
+aliases:
+  - "202404031747"
+language:
+  - java
+date: 2024-04-03
+created: 2024-04-03T17:47
+updated: 2024-04-03T18:02
+---
+# [[Selection sort]]
+- Traverses whole array to find minimum -> swap.
+- Traverse again but start with next element (since previous one has already been sorted).
+- Continue until array is fully sorted.
+
+
+```java
+//loops array multiple times, finding the smallest value from where its index is and swapping it
+private static void selectionSort(int[] arr) {
+	int length = arr.length;
+
+	for (int i = 0; i < length; i++) {
+		int minValue = arr[i];
+		int indexOfMin = i;
+		for (int j = i + 1; j < length; j++){
+			if (arr[j] < minValue){
+				minValue = arr[j];
+				indexOfMin = j;
+			}
+		}
+		swap(arr, i, indexOfMin);
+	}
+}
+
+/**
+ * Swaps two values in an array
+ * @param arr Array whose values need to be swapped
+ * @param a Index to swap
+ * @param b Index to swap
+ */
+private static void swap(int[] arr, int a, int b){
+	int temp = arr[a];
+	arr[a] = arr[b];
+	arr[b] = temp;
+}
+```
+
+
+
+
+
+___
+# References
+[Selection Sort – Data Structure and Algorithm Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/selection-sort/)
