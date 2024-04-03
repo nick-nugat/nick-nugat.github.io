@@ -1,9 +1,11 @@
 ---
-aliases: "202404031744"
-language: 
+aliases:
+  - "202404031744"
+language:
+  - java
 date: 2024-04-03
 created: 2024-04-03T17:44
-updated: 2024-04-03T17:46
+updated: 2024-04-03T18:03
 ---
 # [[Midterm 2 review]]
 ## Topics/questions

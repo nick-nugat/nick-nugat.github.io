@@ -1,15 +1,14 @@
 ---
 aliases:
   - "202404031747"
-language:
-  - java
+language: []
 date: 2024-04-03
 created: 2024-04-03T17:47
-updated: 2024-04-03T18:02
+updated: 2024-04-03T18:16
 ---
 # [[Selection sort]]
 - Traverses whole array to find minimum -> swap.
-- Traverse again but start with next element (since previous one has already been sorted).
+- Continuously traverse through the rest of the **unsorted** array section, continuing to find the minimum of that part of the array.
 - Continue until array is fully sorted.
 
 

@@ -3,13 +3,12 @@ aliases: "202403251338"
 tags: 
 date: 2024-03-25
 created: 2024-03-25T13:38
-updated: 2024-03-25T13:54
+updated: 2024-04-03T18:21
 ---
 # [[Merge sort]]
-- Continuously cuts array in half until it can't anymore.
-- With one element, an array is always sorted.
-- On both sides of the array, sort the subarrrays.
-- When finished, merge everything back together in the correct order.
+1. Continuously cuts array in half until it can't anymore.
+2. On both sides of the array, sort the subarrrays.
+3. When finished, merge everything back together in the correct order.
 
 ![[merge-sort-example-image.png|500]]
 
