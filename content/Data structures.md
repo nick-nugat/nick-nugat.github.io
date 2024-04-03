@@ -2,7 +2,7 @@
 aliases: 
 date: 2024-01-31
 language: java
-updated: 2024-03-25T10:53
+updated: 2024-04-03T13:42
 title: Data structures
 ---
 # [[Data structures]]
@@ -17,5 +17,5 @@ title: Data structures
 - [[Stack]]
 - [[Queue]]
 - [[Hashing|Hash tables]]
-- [[Trees]]
+- [[Tree]]
 - [[Sets]]

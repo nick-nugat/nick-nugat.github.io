@@ -4,10 +4,14 @@ aliases:
 language: java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-03-25T10:53
+updated: 2024-04-03T13:43
 ---
-# [[Trees]]
-Trees are a form of hierarchical way of organization.
+# [[Tree]]
+
+> [!tldr] Definition
+> Trees are a form of hierarchical way of organization.
+
+A tree is basically a restricted [[Graph]].
 
 ```java
 /** An example interface of basic methods for the ADT tree.  */
