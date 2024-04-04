@@ -1,10 +1,14 @@
 ---
 aliases:
   - "202403052301"
-language: java
+  - Binary tree
+  - Binary search
+  - Binary search tree
+language:
+  - java
 date: 2024-03-05
 created: 2024-03-05T23:01
-updated: 2024-04-03T13:43
+updated: 2024-04-03T18:46
 ---
 # [[Tree]]
 
