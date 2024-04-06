@@ -1,13 +1,15 @@
 ---
 aliases:
   - "202404031744"
+  - CMSC204 exam 2
+  - CMSC204 Midterm II
 language:
   - java
 date: 2024-04-03
 created: 2024-04-03T17:44
-updated: 2024-04-06T14:47
+updated: 2024-04-06T15:12
 ---
-# [[Midterm 2 review]]
+# [[CMSC204 Midterm 2 Review]]
 ## Topics/questions
 
 1)	Rank a set of Big-O notations
