@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-04-03
 created: 2024-04-03T17:44
-updated: 2024-04-06T14:42
+updated: 2024-04-06T14:47
 ---
 # [[Midterm 2 review]]
 ## Topics/questions
@@ -34,97 +34,92 @@ g.	O(2n)
 
 
 ## Answers from Bing Copilot
-1) **Ranking Big-O Notations:**
-   a. O(log n)
-   f. O(1)
-   d. O(n)
-   a. O(n log n)
-   b. O(n^2)
-   g. O(2^n)
-   e. O(n!)
-   
-   Explanation:
-   - O(1) represents constant time complexity, which is the fastest.
-   - O(log n) is generally faster than linear time complexity O(n).
-   - O(n log n) is often encountered in efficient sorting algorithms like merge sort and quicksort.
-   - O(n^2) denotes quadratic time complexity, which is slower than linear and n log n time complexities.
-   - O(2^n) represents exponential time complexity, considerably slower.
-   - O(n!) represents factorial time complexity, which is the slowest.
+Certainly! Let’s tackle each of these questions step by step:
 
-2) **Computational Complexity:**
-   The computational complexity of the given function \( n^3 + 30n \log n + 12000 \) is \( O(n^3) \). In Big-O notation, we typically focus on the dominant term, which is \( n^3 \) in this case.
+1. **Ranking Big-O Notations**:
+    
+    - Here’s the ranking from fastest to slowest:
+        - **f. O(1)** (constant time complexity)
+        - **c. O(log n)** (logarithmic time complexity)
+        - **d. O(n)** (linear time complexity)
+        - **a. O(n log n)** (linearithmic time complexity)
+        - **b. O(n^2)** (quadratic time complexity)
+        - **g. O(2^n)** (exponential time complexity)
+        - **e. O(n!)** (factorial time complexity)
+2. **Computational Complexity of the Given Function**:
+    
+    - The given function is:
+        
+        f(n) = n^3 + 30n \log n + 12000f(n)=n3+30nlogn+12000
+        
+    - In Big-O notation, we typically focus on the dominant term. Here, the dominant term is
+        
+        n^3n3
+        
+        .
+    - [Therefore, the computational complexity of this function is **O(n^3)**](https://www.chegg.com/homework-help/questions-and-answers/computational-complexity-following-function-n3-30nlogn-12000-q41674721) [1](https://www.chegg.com/homework-help/questions-and-answers/computational-complexity-following-function-n3-30nlogn-12000-q41674721)[2](https://nick-nugat.github.io/coding-notes/Midterm-2-review).
+3. **Critical Section in Calculating Computational Complexity**:
+    
+    - The critical section in calculating computational (asymptotic) complexity is the part of the algorithm or function that contributes the most to the overall time complexity.
+    - It’s the portion of code that dominates the runtime as the input size grows.
+4. **Converting a Binary Tree to an Array**:
+    
+    - To convert a binary tree to an array, you can use the 2i+1/2i+2 rule.
+    - Start at the root (index 0) and follow these steps:
+        - The left child of node i is at index 2i+1.
+        - The right child of node i is at index 2i+2.
+    - Repeat this process for each level of the tree until you’ve covered all nodes.
+5. **Converting an Existing Heap**:
+    
+    - When inserting or deleting a node in a heap, you need to maintain the heap property (either min-heap or max-heap).
+    - For insertion, add the new node at the end and then “bubble up” (swap with parent) until the heap property is satisfied.
+    - For deletion, replace the root with the last node, and then “bubble down” (swap with the smaller child) until the heap property is restored.
+6. **Sets and Maps**:
+    
+    - To add a mapping to a key-value mapping:
+        - In a map (dictionary), assign a value to a key.
+        - In a set, simply add an element.
+    - To display each value and key:
+        - Iterate through the map or set and print the key-value pairs.
+7. **Valid Hash-Codes for a Class**:
+    
+    - A valid hash code for a class (which returns an integer) should be consistent (same value for the same object) and follow the contract:
+        - If two objects are equal (according to their `equals` method), their hash codes must be the same.
+        - However, the reverse is not necessarily true (two unequal objects can have the same hash code).
+8. **Hash-Code Contract**:
+    
+    - A class satisfies the hash-code contract if it adheres to the rules mentioned above.
+9. **Fastest Sort Algorithms (in Big-O)**:
+    
+    - The fastest sorting algorithms are:
+        - **QuickSort**: Average case: O(n log n).
+        - **MergeSort**: Always: O(n log n).
+10. **Fastest Search Algorithms (in Big-O)**:
+    
+    - The fastest search algorithm is:
+        - **Binary Search**: O(log n).
+11. **Making a Class Generic**:
+    
+    - To make a class generic, use type parameters (e.g., `class MyClass<T>`).
+    - Replace specific types with the type parameter throughout the class.
+12. **Inserting/Retrieving Nodes from a Binary Search Tree**:
+    
+    - To insert a node, compare the value with the root and recursively insert it in the left or right subtree.
+    - To retrieve a node, follow the same comparison process until you find the desired node.
+13. **Writing a Recursive Method**:
+    
+    - A recursive method calls itself during its execution.
+    - Example: Writing a recursive factorial function:
+        
+        \text{factorial}(n) = n \cdot \text{factorial}(n-1)factorial(n)=n⋅factorial(n−1)
+        
+        .
+14. **Iterators**:
+    
+    - Iterators allow you to traverse a collection (e.g., list, set, map) sequentially.
+    - They provide methods like `next()` to retrieve the next element.
 
-3) **Critical Section in Calculating Computational Complexity:**
-   The critical section in calculating computational complexity is typically the part of the algorithm or function that dominates the runtime as the input size grows. This section determines the overall complexity of the algorithm.
-
-4) **Converting Binary Tree to Array:**
-   To convert a binary tree to an array using the 2i+1/2i+2 rule, you can traverse the tree in level order (BFS) and store the nodes in the array according to the formula. This ensures that for any node at index i in the array, its left child will be at index 2i+1 and its right child will be at index 2i+2.
-
-5) **Heap Operations:**
-   To convert an existing heap after inserting or deleting a node, you typically perform heapify operations. For insertion, you perform an "up-heap" operation (also known as "heapify up") to maintain the heap property. For deletion, you perform a "down-heap" operation (also known as "heapify down") to rearrange the elements and maintain the heap property.
-
-6) **Sets and Maps Operations in Java:**
-   ```java
-   // Adding a mapping to a key-value mapping (Map)
-   Map<KeyType, ValueType> map = new HashMap<>();
-   map.put(key, value);
-
-   // Displaying each value and key
-   for (Map.Entry<KeyType, ValueType> entry : map.entrySet()) {
-       System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
-   }
-   ```
-
-7) **Valid Hash Codes for a Class:**
-   A valid hash code for a class should return an integer value. It should follow the contract specified by the `hashCode()` method in Java, which states that equal objects must produce the same hash code, but unequal objects may or may not produce the same hash code.
-
-8) **Hash Code Contract:**
-   A class satisfies the hash code contract if it correctly implements the `hashCode()` method according to the contract defined in the Java documentation. This includes ensuring that equal objects have the same hash code and implementing a consistent hash code calculation.
-
-9) **Fastest Sorting Algorithms (in Big-O):**
-   - The fastest sorting algorithm in Big-O notation is O(n log n), which includes algorithms like merge sort, heap sort, and quicksort in their average and best cases.
-
-10) **Fastest Search Algorithms (in Big-O):**
-    - The fastest search algorithm in Big-O notation depends on the data structure used. For sorted arrays/lists, binary search (O(log n)) is the fastest. For unsorted collections, linear search (O(n)) is typically the best we can achieve.
-
-11) **Making a Class Generic:**
-    To make a class generic in Java, you can use type parameters. For example:
-    ```java
-    public class MyClass<T> {
-        private T data;
-
-        public MyClass(T data) {
-            this.data = data;
-        }
-
-        public T getData() {
-            return data;
-        }
-
-        public void setData(T data) {
-            this.data = data;
-        }
-    }
-    ```
-
-12) **Inserting/Retrieving a Node from a Binary Search Tree:**
-    - To insert a node into a binary search tree (BST), you traverse the tree recursively, comparing the value of the node to be inserted with the values of existing nodes until you find the appropriate position to insert.
-    - To retrieve a node from a BST, you perform a similar recursive traversal, comparing the value you're searching for with the values of nodes in the tree until you find the desired node or determine that it does not exist in the tree.
-
-13) **Writing a Recursive Method:**
-    Here's a simple example of a recursive method to calculate the factorial of a number:
-    ```java
-    public static int factorial(int n) {
-        if (n == 0 || n == 1) {
-            return 1;
-        } else {
-            return n * factorial(n - 1);
-        }
-    }
-    ```
-
-14) **Iterators:**
-    Iterators in Java provide a way to access elements of a collection sequentially without exposing the underlying data structure. They typically have methods like `hasNext()` to check if there are more elements and `next()` to retrieve the next element. Iterators are commonly used in loops to traverse collections such as lists, sets, and maps.
+Feel free to ask if you need further clarification on any of these topics! Good luck with your midterm! 📚👍
 
 
 
