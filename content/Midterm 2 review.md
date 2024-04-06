@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-04-03
 created: 2024-04-03T17:44
-updated: 2024-04-03T18:03
+updated: 2024-04-06T14:42
 ---
 # [[Midterm 2 review]]
 ## Topics/questions
@@ -33,7 +33,7 @@ g.	O(2n)
 14)	Iterators
 
 
-## Answers from ChatGPT
+## Answers from Bing Copilot
 1) **Ranking Big-O Notations:**
    a. O(log n)
    f. O(1)
