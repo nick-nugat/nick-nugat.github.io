@@ -1,5 +1,9 @@
 ---
-updated: 2024-03-25T10:53
+updated: 2024-04-07T17:36
+aliases:
+  - Closed hashing
+  - Open hashing
+  - Open addressing
 ---
 # Collisions
 Collisions happens when a hash function maps a search key into a location the hash table is already using.
@@ -29,7 +33,7 @@ The hash table is searched **sequentially**.
 
 
 ### Quadratic probing
-adds successive values of an **arbitrary quadratic polynomial** until an open slot is found.
+Adds successive values of an **arbitrary quadratic polynomial** until an open slot is found.
 
 > [!note] Algorithm
 > If the slot hash(x) % n is full, then we try (hash(x) + 12) % n.  
