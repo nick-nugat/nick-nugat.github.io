@@ -3,9 +3,9 @@ aliases: "202403181407"
 language: 
 date: 2024-03-18
 created: 2024-03-18T14:07
-updated: 2024-03-25T10:53
+updated: 2024-04-06T21:04
 ---
-# [[Sets]]
+# [[Set]]
 - unordered list of items
 - no duplicates
 	- adding an element **does nothing** if it already exists in the set
