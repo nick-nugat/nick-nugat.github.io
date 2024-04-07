@@ -5,7 +5,7 @@ language:
   - java
 date: 2024-04-01
 created: 2024-04-01T13:40
-updated: 2024-04-03T13:48
+updated: 2024-04-07T18:13
 ---
 # [[Graph]]
 
@@ -38,10 +38,9 @@ Each node has an **edge (line) to every other node**.
 Where edges have **no direction** (no arrows) - nodes are unordered pairs in the definition of every edge.
 - can be [[#Connected graphs|connected]], [[#Complete graph|complete]], or disconnected
 
-![[example-of-directed-graph-and-weighted-graph.png]]
-
 ### Directed graphs
 Where edges have **direction** (has arrows) - nodes are ordered pairs in the definition of every edge.
+![[example-of-directed-graph-and-weighted-graph.png]]
 ![[example-of-directed-graphs_airline-routes.png]]
 
 ## Graph traversals
