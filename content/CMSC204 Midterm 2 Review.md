@@ -7,7 +7,7 @@ language:
   - java
 date: 2024-04-03
 created: 2024-04-03T17:44
-updated: 2024-04-06T15:12
+updated: 2024-04-06T20:02
 ---
 # [[CMSC204 Midterm 2 Review]]
 ## Topics/questions
@@ -28,11 +28,11 @@ g.	O(2n)
 7)	Identify valid hash-codes for a class (returns an int)
 8)	Does a given class satisfy the hash-code contract?
 9)	Identify the fastest (in Big-O) of a set of sort algorithms
-10)	Identify the fastest (in Big-O) of a set of search algorithms
-11)	Modify a class to make it generic
-12)	Insert/retrieve a node from a binary search tree
-13)	Write a recursive method.
-14)	Iterators
+10) Identify the fastest (in Big-O) of a set of search algorithms
+11) Modify a class to make it generic
+12) Insert/retrieve a node from a binary search tree
+13) Write a recursive method.
+14) Iterators
 
 
 ## Answers from Bing Copilot
