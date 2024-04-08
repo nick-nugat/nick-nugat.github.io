@@ -4,10 +4,11 @@ aliases:
 language: []
 date: 2024-03-25
 created: 2024-03-25T13:24
-updated: 2024-04-07T20:30
+updated: 2024-04-07T20:39
 ---
 # [[Insertion sort]]
-- 
+- Consider the first element sorted; start at the second element
+- Compare to previous elements
 
 ```java
 private static void insertionSort(int[] arr){
