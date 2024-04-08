@@ -4,7 +4,7 @@ aliases:
 language: []
 date: 2024-04-03
 created: 2024-04-03T17:47
-updated: 2024-04-03T18:16
+updated: 2024-04-07T20:26
 ---
 # [[Selection sort]]
 - Traverses whole array to find minimum -> swap.
@@ -28,18 +28,6 @@ private static void selectionSort(int[] arr) {
 		}
 		swap(arr, i, indexOfMin);
 	}
-}
-
-/**
- * Swaps two values in an array
- * @param arr Array whose values need to be swapped
- * @param a Index to swap
- * @param b Index to swap
- */
-private static void swap(int[] arr, int a, int b){
-	int temp = arr[a];
-	arr[a] = arr[b];
-	arr[b] = temp;
 }
 ```
 
