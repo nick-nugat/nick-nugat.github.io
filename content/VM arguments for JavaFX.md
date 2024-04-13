@@ -3,11 +3,11 @@ aliases: "202402220004"
 language: 
 date: 2024-02-22
 created: 2024-02-22T00:04
-updated: 2024-03-25T10:53
+updated: 2024-04-13T13:35
 ---
 # [[VM arguments for JavaFX]]
 ```
---module-path /Users/nick/Documents/coding-stuff/additional-libraries/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml
+--module-path /Users/nick/Developer/additional-libraries/javafx-sdk-21.0.2/lib --add-modules javafx.controls,javafx.fxml
 ```
 
 ___
